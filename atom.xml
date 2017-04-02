@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-02T20:42:01.000Z</updated>
+  <updated>2017-04-02T22:16:22.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客文档内置标签</title>
+    <link href="http://yoursite.com/2017/04/03/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F/"/>
+    <id>http://yoursite.com/2017/04/03/博客文档特殊样式/</id>
+    <published>2017-04-02T21:55:50.000Z</published>
+    <updated>2017-04-02T22:16:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己无能的愤怒</blockquote>
+
+<p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image"></p>
+<div class="note default"><p>default Content (md partial supported) </p>
+</div>
+<div class="note primary"><p>primary Content (md partial supported) </p>
+</div>
+<div class="note success"><p>success Content (md partial supported) </p>
+</div>
+<div class="note info"><p>info Content (md partial supported) </p>
+</div>
+<div class="note warning"><p>warning Content (md partial supported) </p>
+</div>
+<div class="note danger"><p>danger Content (md partial supported) </p>
+</div>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;人的一切痛苦，本质上都是对自己无能的愤怒&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-
+    
+    </summary>
+    
+      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>GitHub Pages + Hexo 我的博客搭建之旅</title>
     <link href="http://yoursite.com/2017/04/03/GitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1/"/>
     <id>http://yoursite.com/2017/04/03/GitHub-Pages-Hexo-我的博客搭建之旅-1/</id>
     <published>2017-04-02T16:41:32.000Z</published>
-    <updated>2017-04-02T20:42:01.000Z</updated>
+    <updated>2017-04-02T21:56:04.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="GitHub-Pages-Hexo-我的博客搭建之旅"><a href="#GitHub-Pages-Hexo-我的博客搭建之旅" class="headerlink" title="GitHub Pages + Hexo 我的博客搭建之旅"></a>GitHub Pages + Hexo 我的博客搭建之旅</h1><p><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="external">Hexo中文文档</a></p>
 <p>分四个主要步骤完成博客搭建，具体的操作和遇到的问题在文中慢慢说</p>

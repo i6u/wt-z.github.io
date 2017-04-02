@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[博客文档内置标签]]></title>
+      <url>%2F2017%2F04%2F03%2F%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F%2F</url>
+      <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported)]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[GitHub Pages + Hexo 我的博客搭建之旅]]></title>
+      <url>%2F2017%2F04%2F03%2FGitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1%2F</url>
+      <content type="text"><![CDATA[GitHub Pages + Hexo 我的博客搭建之旅Hexo中文文档 分四个主要步骤完成博客搭建，具体的操作和遇到的问题在文中慢慢说 安装 git ：配置本地 git 环境 注册 GitHub 创建 GitHub pages 安装 hexo ：需要说明的是 hexo 是使用 node 搭建的，所以你还需要提前配置好 node 环境 锦上添花 ：完善 hexo 功能，添加博客访问统计，绑定个人域名 安装 git本机安装 git，这没什么好说的，给大家贴出一个教程 注册 GitHub 、创建 GitHub pages注册 GitHub配置 SSH 登录 GitHub这步骤很关键，之后使用hexo d发布博客需要就是通过 SSH 链接 GitHub 的，省去输入账号密码的步骤 创建 GitHub pages安装 hexo12# 需要先安装 node 环境npm install -g hexo-cli 配置 hexo安装 hexo-git 插件使用 hexo 发布到 github pages使用 hexo d 发布项目可能遇到的错误：没有安装 hexo-git 插件hexo 配置问题，hexo 配置有严格的格式要求，说明如下解决方法 原文链接 锦上添花配置个人域名添加评论功能添加访问统计致谢域名解析 next 主题配置 next 修改背景 标签&amp;分类添加没有的分类]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F03%2F29%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+  
+  
+</search>
