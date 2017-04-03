@@ -4,6 +4,32 @@
 
     
   <url>
+    <loc>https://meekzhou.github.io2017/04/03/2017-04-03-1/</loc>
+    <lastmod>2017-04-03T00:13:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo + GitHub Pages + 阿里域名 爬坑实录</title>
+        <pubTime>2017-04-02T21:55:50.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>NexT</tag>
+         
+        <tag>域名</tag>
+         
+        <tag>GitHub</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://meekzhou.github.io2017/03/29/hello-world/</loc>
     <lastmod>2017-04-03T00:04:39.000Z</lastmod>
     <data>
@@ -32,26 +58,6 @@
            
              
               <breadCrumb title="搭建博客" url="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://meekzhou.github.io2017/04/03/2017-04-03-1/</loc>
-    <lastmod>2017-04-03T00:04:18.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo + GitHub Pages + 阿里域名 爬坑实录</title>
-        <pubTime>2017-04-02T21:55:50.000Z</pubTime>
-        
-        <tag>Hexo，NexT，域名，GitHub</tag>
-         
-         
-           
-             
-              <breadCrumb title="博客搭建" url="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
           
         </display>
     </data>
