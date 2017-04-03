@@ -4,9 +4,9 @@
   <subtitle>记录学习和生活</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.mymeek.com/"/>
   <updated>2017-04-03T16:19:44.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.mymeek.com/</id>
   
   <author>
     <name>Witt chou</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>仙剑98柔情版</title>
-    <link href="http://yoursite.com/2017/04/03/2017-04-03-3/"/>
-    <id>http://yoursite.com/2017/04/03/2017-04-03-3/</id>
+    <link href="http://www.mymeek.com/2017-04-03-3.html"/>
+    <id>http://www.mymeek.com/2017-04-03-3.html</id>
     <published>2017-04-03T11:01:50.000Z</published>
     <updated>2017-04-03T16:19:44.000Z</updated>
     
@@ -37,21 +37,21 @@
     
     </summary>
     
-      <category term="应用推荐" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+      <category term="应用推荐" scheme="http://www.mymeek.com/categories/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="Android App" scheme="http://yoursite.com/tags/Android-App/"/>
+      <category term="Android App" scheme="http://www.mymeek.com/tags/Android-App/"/>
     
-      <category term="应用推荐" scheme="http://yoursite.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+      <category term="应用推荐" scheme="http://www.mymeek.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
     
-      <category term="游戏" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="http://www.mymeek.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
   <entry>
     <title>黑域，安卓系统进程管理利器，免 ROOT 无广告</title>
-    <link href="http://yoursite.com/2017/04/03/2017-04-03-2/"/>
-    <id>http://yoursite.com/2017/04/03/2017-04-03-2/</id>
+    <link href="http://www.mymeek.com/2017-04-03-2.html"/>
+    <id>http://www.mymeek.com/2017-04-03-2.html</id>
     <published>2017-04-03T08:01:50.000Z</published>
     <updated>2017-04-03T11:00:22.000Z</updated>
     
@@ -88,21 +88,21 @@
     
     </summary>
     
-      <category term="应用推荐" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+      <category term="应用推荐" scheme="http://www.mymeek.com/categories/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="Android App" scheme="http://yoursite.com/tags/Android-App/"/>
+      <category term="Android App" scheme="http://www.mymeek.com/tags/Android-App/"/>
     
-      <category term="应用推荐" scheme="http://yoursite.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+      <category term="应用推荐" scheme="http://www.mymeek.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
     
-      <category term="黑域" scheme="http://yoursite.com/tags/%E9%BB%91%E5%9F%9F/"/>
+      <category term="黑域" scheme="http://www.mymeek.com/tags/%E9%BB%91%E5%9F%9F/"/>
     
   </entry>
   
   <entry>
     <title>Hexo + GitHub Pages + 阿里域名 爬坑</title>
-    <link href="http://yoursite.com/2017/04/03/2017-04-03-1/"/>
-    <id>http://yoursite.com/2017/04/03/2017-04-03-1/</id>
+    <link href="http://www.mymeek.com/2017-04-03-1.html"/>
+    <id>http://www.mymeek.com/2017-04-03-1.html</id>
     <published>2017-04-02T21:55:50.000Z</published>
     <updated>2017-04-03T11:00:32.000Z</updated>
     
@@ -135,23 +135,23 @@
     
     </summary>
     
-      <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客搭建" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.mymeek.com/tags/Hexo/"/>
     
-      <category term="NexT" scheme="http://yoursite.com/tags/NexT/"/>
+      <category term="NexT" scheme="http://www.mymeek.com/tags/NexT/"/>
     
-      <category term="域名" scheme="http://yoursite.com/tags/%E5%9F%9F%E5%90%8D/"/>
+      <category term="域名" scheme="http://www.mymeek.com/tags/%E5%9F%9F%E5%90%8D/"/>
     
-      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
+      <category term="GitHub" scheme="http://www.mymeek.com/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>hexo next 动态背景</title>
-    <link href="http://yoursite.com/2017/04/03/2017-04-03/"/>
-    <id>http://yoursite.com/2017/04/03/2017-04-03/</id>
+    <link href="http://www.mymeek.com/2017-04-03.html"/>
+    <id>http://www.mymeek.com/2017-04-03.html</id>
     <published>2017-04-02T21:55:50.000Z</published>
     <updated>2017-04-02T23:50:18.000Z</updated>
     
@@ -165,17 +165,17 @@
     
     </summary>
     
-      <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客搭建" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>博客文档内置标签</title>
-    <link href="http://yoursite.com/2017/04/03/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F/"/>
-    <id>http://yoursite.com/2017/04/03/博客文档特殊样式/</id>
+    <link href="http://www.mymeek.com/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html"/>
+    <id>http://www.mymeek.com/博客文档特殊样式.html</id>
     <published>2017-04-02T21:55:50.000Z</published>
     <updated>2017-04-03T11:01:29.000Z</updated>
     
@@ -206,17 +206,17 @@
     
     </summary>
     
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="搭建博客" scheme="http://www.mymeek.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Pages + Hexo 我的博客搭建之旅</title>
-    <link href="http://yoursite.com/2017/04/03/GitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1/"/>
-    <id>http://yoursite.com/2017/04/03/GitHub-Pages-Hexo-我的博客搭建之旅-1/</id>
+    <link href="http://www.mymeek.com/GitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1.html"/>
+    <id>http://www.mymeek.com/GitHub-Pages-Hexo-我的博客搭建之旅-1.html</id>
     <published>2017-04-02T16:41:32.000Z</published>
     <updated>2017-04-03T11:22:11.000Z</updated>
     
@@ -254,14 +254,14 @@
     </summary>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/29/hello-world/"/>
-    <id>http://yoursite.com/2017/03/29/hello-world/</id>
+    <link href="http://www.mymeek.com/hello-world.html"/>
+    <id>http://www.mymeek.com/hello-world.html</id>
     <published>2017-03-29T01:18:00.000Z</published>
     <updated>2017-04-03T11:01:37.000Z</updated>
     
