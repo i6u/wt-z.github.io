@@ -40,7 +40,7 @@
     <entry>
       <title><![CDATA[GitHub Pages + Hexo 我的博客搭建之旅]]></title>
       <url>%2FGitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1.html</url>
-      <content type="text"><![CDATA[GitHub Pages + Hexo 我的博客搭建之旅Hexo中文文档 分四个主要步骤完成博客搭建，具体的操作和遇到的问题在文中慢慢说 安装 git ：配置本地 git 环境 注册 GitHub 创建 GitHub pages 安装 hexo ：需要说明的是 hexo 是使用 node 搭建的，所以你还需要提前配置好 node 环境 锦上添花 ：完善 hexo 功能，添加博客访问统计，绑定个人域名 安装 git本机安装 git，这没什么好说的，给大家贴出一个教程 注册 GitHub 、创建 GitHub pages注册 GitHub配置 SSH 登录 GitHub这步骤很关键，之后使用hexo d发布博客需要就是通过 SSH 链接 GitHub 的，省去输入账号密码的步骤 创建 GitHub pages安装 hexo12# 需要先安装 node 环境npm install -g hexo-cli 配置 hexo安装 hexo-git 插件使用 hexo 发布到 github pages使用 hexo d 发布项目可能遇到的错误：没有安装 hexo-git 插件hexo 配置问题，hexo 配置有严格的格式要求，说明如下解决方法 原文链接 锦上添花配置个人域名添加评论功能添加访问统计致谢域名解析 next 主题配置 next 修改背景 标签&amp;分类添加没有的分类 访问量]]></content>
+      <content type="text"><![CDATA[GitHub Pages + Hexo 我的博客搭建之旅Hexo中文文档 分四个主要步骤完成博客搭建，具体的操作和遇到的问题在文中慢慢说 安装 git ：配置本地 git 环境 注册 GitHub 创建 GitHub pages 安装 hexo ：需要说明的是 hexo 是使用 node 搭建的，所以你还需要提前配置好 node 环境 锦上添花 ：完善 hexo 功能，添加博客访问统计，绑定个人域名 安装 git本机安装 git，这没什么好说的，给大家贴出一个教程 注册 GitHub 、创建 GitHub pages注册 GitHub配置 SSH 登录 GitHub这步骤很关键，之后使用hexo d发布博客需要就是通过 SSH 链接 GitHub 的，省去输入账号密码的步骤 创建 GitHub pages安装 hexo12# 需要先安装 node 环境npm install -g hexo-cli 配置 hexo安装 hexo-git 插件使用 hexo 发布到 github pages使用 hexo d 发布项目可能遇到的错误：没有安装 hexo-git 插件hexo 配置问题，hexo 配置有严格的格式要求，说明如下解决方法 原文链接 锦上添花配置个人域名添加评论功能添加访问统计致谢域名解析 next 主题配置 next 修改背景 标签&amp;分类添加没有的分类 访问量 搜索引擎优化]]></content>
     </entry>
 
     
