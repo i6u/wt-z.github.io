@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://meekzhou.github.ioabout/index.html</loc>
+    
+    <lastmod>2017-04-03T09:44:31.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://meekzhou.github.io2017/04/03/2017-04-03-2/</loc>
     
-    <lastmod>2017-04-03T08:40:31.000Z</lastmod>
+    <lastmod>2017-04-03T08:50:19.000Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>https://meekzhou.github.io404.html</loc>
     
     <lastmod>2017-04-02T20:16:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://meekzhou.github.ioabout/index.html</loc>
-    
-    <lastmod>2017-04-02T19:50:01.000Z</lastmod>
     
   </url>
   
