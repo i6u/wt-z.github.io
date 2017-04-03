@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-03T11:00:22.000Z</updated>
+  <updated>2017-04-03T11:34:44.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>仙剑98柔情版</title>
+    <link href="http://yoursite.com/2017/04/03/2017-04-03-3/"/>
+    <id>http://yoursite.com/2017/04/03/2017-04-03-3/</id>
+    <published>2017-04-03T11:01:50.000Z</published>
+    <updated>2017-04-03T11:34:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">我所有的美好都在回忆里</blockquote>
+
+<p>仙剑98柔情版，满满的回忆，Android apk，纯净无广告</p>
+<blockquote>
+<p>链接: <a href="https://pan.baidu.com/s/1kV2sWg3" target="_blank" rel="external">https://pan.baidu.com/s/1kV2sWg3</a> 密码: 4bvm</p>
+</blockquote>
+<p>如果链接失效给我留言</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;我所有的美好都在回忆里&lt;/blockquote&gt;
+
+&lt;p&gt;仙剑98柔情版，满满的回忆，Android apk，纯净无广告&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;链接: &lt;a href=&quot;https://
+    
+    </summary>
+    
+      <category term="应用推荐" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="Android App" scheme="http://yoursite.com/tags/Android-App/"/>
+    
+      <category term="应用推荐" scheme="http://yoursite.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="游戏" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>黑域，安卓系统进程管理利器，免 ROOT 无广告</title>
@@ -185,7 +222,7 @@
     <link href="http://yoursite.com/2017/04/03/GitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1/"/>
     <id>http://yoursite.com/2017/04/03/GitHub-Pages-Hexo-我的博客搭建之旅-1/</id>
     <published>2017-04-02T16:41:32.000Z</published>
-    <updated>2017-04-03T11:01:35.000Z</updated>
+    <updated>2017-04-03T11:22:11.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="GitHub-Pages-Hexo-我的博客搭建之旅"><a href="#GitHub-Pages-Hexo-我的博客搭建之旅" class="headerlink" title="GitHub Pages + Hexo 我的博客搭建之旅"></a>GitHub Pages + Hexo 我的博客搭建之旅</h1><p><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="external">Hexo中文文档</a></p>
 <p>分四个主要步骤完成博客搭建，具体的操作和遇到的问题在文中慢慢说</p>
@@ -204,6 +241,7 @@
 <p><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">next 主题配置</a></p>
 <p><a href="https://shenzekun.github.io/hexo%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A8%E6%80%81%E8%83%8C%E6%99%AF.html" target="_blank" rel="external">next 修改背景</a></p>
 <p><a href="http://ws905.com/document/2016-07-16/page/hexo-1/" target="_blank" rel="external">标签&amp;分类</a><br><a href="https://lannly.github.io/2016/11/16/Hexo-Next-%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%86%E7%B1%BB/" target="_blank" rel="external">添加没有的分类</a></p>
+<p><a href="https://lannly.github.io/2016/11/11/hexo-next%E4%B8%BB%E9%A2%98-%E6%96%87%E7%AB%A0%E6%B7%BB%E5%8A%A0%E9%98%85%E8%AF%BB%E6%AC%A1%E6%95%B0%EF%BC%8C%E8%AE%BF%E9%97%AE%E9%87%8F%E7%AD%89/" target="_blank" rel="external">访问量</a></p>
 ]]></content>
     
     <summary type="html">
