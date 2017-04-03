@@ -366,7 +366,7 @@
               
                 
                 <a class="post-title-link" href="/2017/04/03/2017-04-03-1/" itemprop="url">
-                  hexo next 动态背景
+                  Hexo + GitHub Pages + 阿里域名 爬坑实录
                 </a>
               
             
@@ -441,17 +441,19 @@
 
       
         
-          
-            <h1 id="Hexo-GitHub-Pages-阿里域名-爬坑实录"><a href="#Hexo-GitHub-Pages-阿里域名-爬坑实录" class="headerlink" title="Hexo + GitHub Pages + 阿里域名 爬坑实录"></a>Hexo + GitHub Pages + 阿里域名 爬坑实录</h1><ol>
-<li>CNAME 文件在 <code>source</code> 创建，必须为大写，没有后缀名！</li>
-<li>CNAME 中填写的域名格式参考：<code>www.mymeek.com</code> </li>
+          <ol>
+<li><code>CNAME</code> 文件在 <code>source</code> 创建，必须为大写，没有后缀名！</li>
+<li><code>CNAME</code> 中填写的域名格式参考：<code>www.mymeek.com</code> </li>
 <li>阿里域名解析配置参考</li>
 </ol>
 <p><img src="https://ww4.sinaimg.cn/large/006tKfTcgy1fe95tnn6pmj313m06aq3y.jpg" alt="ali"></p>
-<p>另外： CNAME 也可以在 GitHub Pages 中配置</p>
-<p>在 GitHub Pages 仓库 Settings 中配置<br><img src="https://ww4.sinaimg.cn/large/006tKfTcgy1fe95wr1onzj316c0r6wj0.jpg" alt="GitHub Pages"></p>
-
-          
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/04/03/2017-04-03-1/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -735,27 +737,22 @@
 
       
         
-          
-            <blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己无能的愤怒</blockquote>
+          <blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己无能的愤怒</blockquote>
 
-<p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image"></p>
+<p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image" /></p>
 <div class="note default"><p>default Content (md partial supported) </p>
 </div>
 <div class="note primary"><p>primary Content (md partial supported) </p>
 </div>
 <div class="note success"><p>success Content (md partial supported) </p>
 </div>
-<div class="note info"><p>info Content (md partial supported) </p>
-</div>
-<div class="note warning"><p>warning Content (md partial supported) </p>
-</div>
-<div class="note danger"><p>danger Content (md partial supported) </p>
-</div>
-<p>控制文章在首页展示的内容，添加阅读全文的功能</p>
-<div class="note success"><p>在文章中添加 <code>&lt;!--more--&gt;</code> 来分割文章 表示，之后的内容只有点击阅读全文才能看见</p>
-</div>
-
-          
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/04/03/博客文档特殊样式/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -1005,18 +1002,17 @@
 
       
         
-          
-            <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+          <p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-
-          
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/03/29/hello-world/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>

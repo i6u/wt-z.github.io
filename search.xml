@@ -3,9 +3,9 @@
   
     
     <entry>
-      <title><![CDATA[hexo next 动态背景]]></title>
+      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑实录]]></title>
       <url>%2F2017%2F04%2F03%2F2017-04-03-1%2F</url>
-      <content type="text"><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑实录 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 另外： CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置]]></content>
+      <content type="text"><![CDATA[CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 另外： CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置]]></content>
     </entry>
 
     
