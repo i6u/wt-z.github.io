@@ -4,6 +4,13 @@
     
     <entry>
       <title><![CDATA[hexo next 动态背景]]></title>
+      <url>%2F2017%2F04%2F03%2F2017-04-03-1%2F</url>
+      <content type="text"><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑实录 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 另外： CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[hexo next 动态背景]]></title>
       <url>%2F2017%2F04%2F03%2F2017-04-03%2F</url>
       <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色opacity：透明度zIndex：层叠顺序，默认-1count：线条数，默认150]]></content>
     </entry>
@@ -12,7 +19,7 @@
     <entry>
       <title><![CDATA[博客文档内置标签]]></title>
       <url>%2F2017%2F04%2F03%2F%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F%2F</url>
-      <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported)]]></content>
+      <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported) 控制文章在首页展示的内容，添加阅读全文的功能 在文章中添加 &lt;!--more--&gt; 来分割文章 表示，之后的内容只有点击阅读全文才能看见]]></content>
     </entry>
 
     

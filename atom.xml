@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-02T23:05:28.000Z</updated>
+  <updated>2017-04-03T00:01:11.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,10 +17,40 @@
   
   <entry>
     <title>hexo next 动态背景</title>
+    <link href="http://yoursite.com/2017/04/03/2017-04-03-1/"/>
+    <id>http://yoursite.com/2017/04/03/2017-04-03-1/</id>
+    <published>2017-04-02T21:55:50.000Z</published>
+    <updated>2017-04-03T00:01:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hexo-GitHub-Pages-阿里域名-爬坑实录"><a href="#Hexo-GitHub-Pages-阿里域名-爬坑实录" class="headerlink" title="Hexo + GitHub Pages + 阿里域名 爬坑实录"></a>Hexo + GitHub Pages + 阿里域名 爬坑实录</h1><ol>
+<li>CNAME 文件在 <code>source</code> 创建，必须为大写，没有后缀名！</li>
+<li>CNAME 中填写的域名格式参考：<code>www.mymeek.com</code> </li>
+<li>阿里域名解析配置参考</li>
+</ol>
+<p><img src="https://ww4.sinaimg.cn/large/006tKfTcgy1fe95tnn6pmj313m06aq3y.jpg" alt="ali"></p>
+<p>另外： CNAME 也可以在 GitHub Pages 中配置</p>
+<p>在 GitHub Pages 仓库 Settings 中配置<br><img src="https://ww4.sinaimg.cn/large/006tKfTcgy1fe95wr1onzj316c0r6wj0.jpg" alt="GitHub Pages"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Hexo-GitHub-Pages-阿里域名-爬坑实录&quot;&gt;&lt;a href=&quot;#Hexo-GitHub-Pages-阿里域名-爬坑实录&quot; class=&quot;headerlink&quot; title=&quot;Hexo + GitHub Pages + 阿里域名 爬坑实录&quot;&gt;&lt;/a&gt;H
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="Hexo，NexT，域名，GitHub" scheme="http://yoursite.com/tags/Hexo%EF%BC%8CNexT%EF%BC%8C%E5%9F%9F%E5%90%8D%EF%BC%8CGitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo next 动态背景</title>
     <link href="http://yoursite.com/2017/04/03/2017-04-03/"/>
     <id>http://yoursite.com/2017/04/03/2017-04-03/</id>
     <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-02T23:05:28.000Z</updated>
+    <updated>2017-04-02T23:50:18.000Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight plain"><figcaption><span><body> 标签内</body></span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&#123;% if theme.canvas_nest %&#125;</div><div class="line">&lt;script type=&quot;text/javascript&quot;</div><div class="line">color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure>
 <p>color：颜色<br>opacity：透明度<br>zIndex：层叠顺序，默认-1<br>count：线条数，默认150</p>
@@ -32,7 +62,7 @@
     
     </summary>
     
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
       <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
@@ -44,7 +74,7 @@
     <link href="http://yoursite.com/2017/04/03/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F/"/>
     <id>http://yoursite.com/2017/04/03/博客文档特殊样式/</id>
     <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-02T23:02:03.000Z</updated>
+    <updated>2017-04-02T23:54:09.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己无能的愤怒</blockquote>
 
@@ -60,6 +90,9 @@
 <div class="note warning"><p>warning Content (md partial supported) </p>
 </div>
 <div class="note danger"><p>danger Content (md partial supported) </p>
+</div>
+<p>控制文章在首页展示的内容，添加阅读全文的功能</p>
+<div class="note success"><p>在文章中添加 <code>&lt;!--more--&gt;</code> 来分割文章 表示，之后的内容只有点击阅读全文才能看见</p>
 </div>
 ]]></content>
     

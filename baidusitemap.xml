@@ -4,11 +4,31 @@
 
     
   <url>
-    <loc>https://meekzhou.github.io2017/04/03/2017-04-03/</loc>
-    <lastmod>2017-04-02T23:05:28.000Z</lastmod>
+    <loc>https://meekzhou.github.io2017/04/03/2017-04-03-1/</loc>
+    <lastmod>2017-04-03T00:01:11.000Z</lastmod>
     <data>
         <display>
         <title>hexo next 动态背景</title>
+        <pubTime>2017-04-02T21:55:50.000Z</pubTime>
+        
+        <tag>Hexo，NexT，域名，GitHub</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://meekzhou.github.io2017/04/03/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F/</loc>
+    <lastmod>2017-04-02T23:54:09.000Z</lastmod>
+    <data>
+        <display>
+        <title>博客文档内置标签</title>
         <pubTime>2017-04-02T21:55:50.000Z</pubTime>
         
         <tag>测试</tag>
@@ -24,11 +44,11 @@
 
     
   <url>
-    <loc>https://meekzhou.github.io2017/04/03/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F/</loc>
-    <lastmod>2017-04-02T23:02:03.000Z</lastmod>
+    <loc>https://meekzhou.github.io2017/04/03/2017-04-03/</loc>
+    <lastmod>2017-04-02T23:50:18.000Z</lastmod>
     <data>
         <display>
-        <title>博客文档内置标签</title>
+        <title>hexo next 动态背景</title>
         <pubTime>2017-04-02T21:55:50.000Z</pubTime>
         
         <tag>测试</tag>
@@ -36,7 +56,7 @@
          
            
              
-              <breadCrumb title="搭建博客" url="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+              <breadCrumb title="博客搭建" url="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
           
         </display>
     </data>
