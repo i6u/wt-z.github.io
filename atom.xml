@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-04-04T04:16:41.000Z</updated>
+  <updated>2017-04-04T12:47:53.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac 上简单好用的路由追踪工具</title>
+    <link href="http://www.mymeek.com/2017/04/04/2017-04-04-1/"/>
+    <id>http://www.mymeek.com/2017/04/04/2017-04-04-1/</id>
+    <published>2017-04-04T11:56:50.000Z</published>
+    <updated>2017-04-04T12:47:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="这是下载地址"><a href="#这是下载地址" class="headerlink" title="这是下载地址"></a>这是下载地址</h4><p><a href="https://itunes.apple.com/cn/app/best-trace/id1037779758?mt=12" target="_blank" rel="external">best-trace</a></p>
+<h4 id="先简单介绍下路由追踪"><a href="#先简单介绍下路由追踪" class="headerlink" title="先简单介绍下路由追踪"></a>先简单介绍下路由追踪</h4><div class="note info"><p>&emsp;&emsp;你访问的目标服务器和你是通过网线再经过一个个路由链接起来的，<code>路由追踪</code> 就是你访问目标服务器所走的路，中间路由都在哪里做了跳转</p>
+</div>
+<h4 id="那路由追踪有什么用呢？"><a href="#那路由追踪有什么用呢？" class="headerlink" title="那路由追踪有什么用呢？"></a>那路由追踪有什么用呢？</h4><div class="note info"><p>&emsp;&emsp;理论上其他条件相同，访问距离越短，路由跳转次数越少访问速度越快，因为不同的运营商都有一套自己接入互联网干线的方法，我们在本机使用路由追踪技术测试需要访问的网站，就能很轻松的看到中间走了多远，路由跳了几次，这些数据就可以作为我们选择 <code>代理</code>（运营商或者VPN代理） 的一个参考</p>
+</div>
+<div align="center"><br><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1feawzl5i8mj31kw1147kd.jpg" width="500" alt="1"><br><img src="https://ww2.sinaimg.cn/large/006tKfTcly1feaxddmejxj31kw11416b.jpg" width="500" alt="2"><br><p>那么，你认为那个代理会快一点呢?</p><br><h7>地球是圆的，不要被图片误导哈</h7><br></div>
+
+]]></content>
+    
+    <summary type="html">
+    
+      Mac 上的路由追踪工具，免费，可在 App Store 直接下载
+    
+    </summary>
+    
+      <category term="Mac App" scheme="http://www.mymeek.com/categories/Mac-App/"/>
+    
+    
+      <category term="应用推荐" scheme="http://www.mymeek.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="Mac App" scheme="http://www.mymeek.com/tags/Mac-App/"/>
+    
+      <category term="代理" scheme="http://www.mymeek.com/tags/%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Mac上管理 Host 文件</title>
@@ -84,7 +117,7 @@
     <link href="http://www.mymeek.com/2017/04/03/2017-04-03-2/"/>
     <id>http://www.mymeek.com/2017/04/03/2017-04-03-2/</id>
     <published>2017-04-03T08:01:50.000Z</published>
-    <updated>2017-04-03T11:00:22.000Z</updated>
+    <updated>2017-04-04T10:57:55.000Z</updated>
     
     <content type="html"><![CDATA[<div class="note info"><p>安卓是手机权限滥用的重灾区，无限自启的流氓应用，杀不死的后台服务，全家桶套餐连锁启动，不是浪费你的流量，就是消耗手机电量，装个第三方手机管家，想着能找个大流氓管管这群小流氓，可这大流氓也不安分啊，甚至有点弱智，搞一个傻逼的评分忽悠你，然后各种推荐下载，各种要你手机权限，还没什么用！现在是时候让我们对这些流浪一起 say bye-bye</p>
 </div>
@@ -208,10 +241,9 @@
     <link href="http://www.mymeek.com/2017/04/03/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F/"/>
     <id>http://www.mymeek.com/2017/04/03/博客文档特殊样式/</id>
     <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-03T11:01:29.000Z</updated>
+    <updated>2017-04-04T11:02:44.000Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a>
-<blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己无能的愤怒</blockquote>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己无能的愤怒</blockquote>
 
 <p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image"></p>
 <div class="note default"><p>default Content (md partial supported) </p>
@@ -229,6 +261,11 @@
 <p>控制文章在首页展示的内容，添加阅读全文的功能</p>
 <div class="note success"><p>在文章中添加 <code>&lt;!--more--&gt;</code> 来分割文章 表示，之后的内容只有点击阅读全文才能看见</p>
 </div>
+<div align="center"><br><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hia4tvqj31401z4k1d.jpg" width="200" alt="手机端安装好的效果图"><br><p>手机端安装好的效果图</p><br></div>
+
+
+
+
 ]]></content>
     
     <summary type="html">
@@ -237,7 +274,7 @@
     
     </summary>
     
-      <category term="搭建博客" scheme="http://www.mymeek.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客搭建" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
       <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
