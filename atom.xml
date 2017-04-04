@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-04-03T16:19:44.000Z</updated>
+  <updated>2017-04-04T04:16:41.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -16,9 +16,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mac上管理 Host 文件</title>
+    <link href="http://www.mymeek.com/2017/04/04/2017-04-04/"/>
+    <id>http://www.mymeek.com/2017/04/04/2017-04-04/</id>
+    <published>2017-04-04T03:45:50.000Z</published>
+    <updated>2017-04-04T04:16:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="可以在-App-Store-直接下载"><a href="#可以在-App-Store-直接下载" class="headerlink" title="可以在 App Store 直接下载"></a>可以在 App Store 直接下载</h3><p><a href="https://itunes.apple.com/cn/app/ihosts-%E7%BC%96%E8%BE%91%E7%A5%9E%E5%99%A8/id1102004240?mt=12" target="_blank" rel="external">iHost</a> <code>点击应用名直接跳到App Store</code><br><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1feaicb4pqqj31g20d0myp.jpg" alt="iHosts"></p>
+<h3 id="使用很简单"><a href="#使用很简单" class="headerlink" title="使用很简单"></a>使用很简单</h3><h4 id="编辑好节点"><a href="#编辑好节点" class="headerlink" title="编辑好节点"></a>编辑好节点</h4><p><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1feaijyc9n0j30qq0k8ta9.jpg" alt=""></p>
+<h4 id="然后需要切换那个选那个"><a href="#然后需要切换那个选那个" class="headerlink" title="然后需要切换那个选那个"></a>然后需要切换那个选那个</h4><p><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1feaijbho70j30ru0bswgf.jpg" alt=""></p>
+<h4 id="还有一个很详细的中文文档，有兴趣可以看看"><a href="#还有一个很详细的中文文档，有兴趣可以看看" class="headerlink" title="还有一个很详细的中文文档，有兴趣可以看看"></a>还有一个很详细的中文文档，有兴趣可以看看</h4><p><a href="https://h.ihosts.toolinbox.net/cn/index.html" target="_blank" rel="external">iHosts文档</a></p>
+<h4 id="价格"><a href="#价格" class="headerlink" title="价格"></a>价格</h4><div class="note info"><p>免费 版本可以添加 4个 节点<br>付费 40块 可以添加 10个 节点<br>付费 50块 可以无限节点，无限嗨</p>
+</div>
+<p>免费版够用，好奇为什么会有个一个 40块 的版本，哈哈 😊</p>
+]]></content>
+    
+    <summary type="html">
+    
+      有时候本地测试需要改 Host 文件，改完之后又要还原回去，这一来一回很麻烦，现在我们有更优雅的方式来解决这个问题
+    
+    </summary>
+    
+      <category term="Mac App" scheme="http://www.mymeek.com/categories/Mac-App/"/>
+    
+    
+      <category term="应用推荐" scheme="http://www.mymeek.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="Mac App" scheme="http://www.mymeek.com/tags/Mac-App/"/>
+    
+  </entry>
+  
+  <entry>
     <title>仙剑98柔情版</title>
-    <link href="http://www.mymeek.com/2017-04-03-3.html"/>
-    <id>http://www.mymeek.com/2017-04-03-3.html</id>
+    <link href="http://www.mymeek.com/2017/04/03/2017-04-03-3/"/>
+    <id>http://www.mymeek.com/2017/04/03/2017-04-03-3/</id>
     <published>2017-04-03T11:01:50.000Z</published>
     <updated>2017-04-03T16:19:44.000Z</updated>
     
@@ -50,8 +81,8 @@
   
   <entry>
     <title>黑域，安卓系统进程管理利器，免 ROOT 无广告</title>
-    <link href="http://www.mymeek.com/2017-04-03-2.html"/>
-    <id>http://www.mymeek.com/2017-04-03-2.html</id>
+    <link href="http://www.mymeek.com/2017/04/03/2017-04-03-2/"/>
+    <id>http://www.mymeek.com/2017/04/03/2017-04-03-2/</id>
     <published>2017-04-03T08:01:50.000Z</published>
     <updated>2017-04-03T11:00:22.000Z</updated>
     
@@ -101,8 +132,8 @@
   
   <entry>
     <title>Hexo + GitHub Pages + 阿里域名 爬坑</title>
-    <link href="http://www.mymeek.com/2017-04-03-1.html"/>
-    <id>http://www.mymeek.com/2017-04-03-1.html</id>
+    <link href="http://www.mymeek.com/2017/04/03/2017-04-03-1/"/>
+    <id>http://www.mymeek.com/2017/04/03/2017-04-03-1/</id>
     <published>2017-04-02T21:55:50.000Z</published>
     <updated>2017-04-03T11:00:32.000Z</updated>
     
@@ -150,8 +181,8 @@
   
   <entry>
     <title>hexo next 动态背景</title>
-    <link href="http://www.mymeek.com/2017-04-03.html"/>
-    <id>http://www.mymeek.com/2017-04-03.html</id>
+    <link href="http://www.mymeek.com/2017/04/03/2017-04-03/"/>
+    <id>http://www.mymeek.com/2017/04/03/2017-04-03/</id>
     <published>2017-04-02T21:55:50.000Z</published>
     <updated>2017-04-02T23:50:18.000Z</updated>
     
@@ -174,8 +205,8 @@
   
   <entry>
     <title>博客文档内置标签</title>
-    <link href="http://www.mymeek.com/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html"/>
-    <id>http://www.mymeek.com/博客文档特殊样式.html</id>
+    <link href="http://www.mymeek.com/2017/04/03/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F/"/>
+    <id>http://www.mymeek.com/2017/04/03/博客文档特殊样式/</id>
     <published>2017-04-02T21:55:50.000Z</published>
     <updated>2017-04-03T11:01:29.000Z</updated>
     
@@ -215,8 +246,8 @@
   
   <entry>
     <title>GitHub Pages + Hexo 我的博客搭建之旅</title>
-    <link href="http://www.mymeek.com/GitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1.html"/>
-    <id>http://www.mymeek.com/GitHub-Pages-Hexo-我的博客搭建之旅-1.html</id>
+    <link href="http://www.mymeek.com/2017/04/03/GitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1/"/>
+    <id>http://www.mymeek.com/2017/04/03/GitHub-Pages-Hexo-我的博客搭建之旅-1/</id>
     <published>2017-04-02T16:41:32.000Z</published>
     <updated>2017-04-03T17:08:53.000Z</updated>
     
@@ -261,8 +292,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.mymeek.com/hello-world.html"/>
-    <id>http://www.mymeek.com/hello-world.html</id>
+    <link href="http://www.mymeek.com/2017/03/29/hello-world/"/>
+    <id>http://www.mymeek.com/2017/03/29/hello-world/</id>
     <published>2017-03-29T01:18:00.000Z</published>
     <updated>2017-04-03T11:01:37.000Z</updated>
     
