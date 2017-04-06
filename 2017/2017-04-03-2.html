@@ -471,38 +471,23 @@
         <div class="note info"><p>安卓是手机权限滥用的重灾区，无限自启的流氓应用，杀不死的后台服务，全家桶套餐连锁启动，不是浪费你的流量，就是消耗手机电量，装个第三方手机管家，想着能找个大流氓管管这群小流氓，可这大流氓也不安分啊，甚至有点弱智，搞一个傻逼的评分忽悠你，然后各种推荐下载，各种要你手机权限，关键是还没什么用！现在是时候让我们对这些流浪一起 say bye-bye</p>
 </div>
 <a id="more"></a>
-<h2 id="准备工作">准备工作</h2>
-<ul>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
 <li>需要 adb 调试工具</li>
 <li>一个能工作的电脑，一个安卓手机，一条数据线 ：）</li>
 <li>手机端打开 adb 调试模式</li>
 </ul>
-<h2 id="开始干活">开始干活</h2>
-<h3 id="下载安装黑域">下载安装黑域</h3>
-<p>不同版本之间可能存在差异具体以官网为准，当前版本为 <code>0.9.4</code> <a href="http://www.coolapk.com/apk/me.piebridge.brevent" target="_blank" rel="external">黑域最新版下载</a></p>
+<h2 id="开始干活"><a href="#开始干活" class="headerlink" title="开始干活"></a>开始干活</h2><h3 id="下载安装黑域"><a href="#下载安装黑域" class="headerlink" title="下载安装黑域"></a>下载安装黑域</h3><p>不同版本之间可能存在差异具体以官网为准，当前版本为 <code>0.9.4</code><br><a href="http://www.coolapk.com/apk/me.piebridge.brevent" target="_blank" rel="external">黑域最新版下载</a></p>
 <p>手机端安装好的效果图</p>
-<div class="figure">
-<img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hia4tvqj31401z4k1d.jpg" alt="黑域">
-<p class="caption">黑域</p>
-</div>
-<h3 id="通过-adb-让黑域监控系统-api">通过 adb 让黑域监控系统 API</h3>
-<p>手机连接电脑，打开终端按照提示 输入命令（向右滑动到<code>使用</code>页面，点击<code>进入黑域</code>会看到如下界面）</p>
-<div class="figure">
-<img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hk776dvj31401z4agc.jpg">
-
-</div>
-<p>按照提示，输入命令 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">adb -d shell /data/app/me.piebridge.brevent-1/lib/arm/libbrevent.so</div></pre></td></tr></table></figure></p>
+<p><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hia4tvqj31401z4k1d.jpg" alt="黑域"></p>
+<h3 id="通过-adb-让黑域监控系统-API"><a href="#通过-adb-让黑域监控系统-API" class="headerlink" title="通过 adb 让黑域监控系统 API"></a>通过 adb 让黑域监控系统 API</h3><p>手机连接电脑，打开终端按照提示<br>输入命令（向右滑动到<code>使用</code>页面，点击<code>进入黑域</code>会看到如下界面）</p>
+<p><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hk776dvj31401z4agc.jpg" alt=""></p>
+<p>按照提示，输入命令<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">adb -d shell /data/app/me.piebridge.brevent-1/lib/arm/libbrevent.so</div></pre></td></tr></table></figure></p>
 <p>等待…成功会有提示</p>
-<p><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1fe9hoobe00j313806imz2.jpg"> 现在你可以在手机端教那些流氓如何做一个安分守己的 app</p>
-<h3 id="使用黑域">使用黑域</h3>
-<p>选择要监控的应用</p>
-<div class="figure">
-<img src="https://ww2.sinaimg.cn/large/006tKfTcgy1fe9huhgvlcj30o817478e.jpg">
-
-</div>
+<p><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1fe9hoobe00j313806imz2.jpg" alt=""><br>现在你可以在手机端教那些流氓如何做一个安分守己的 app</p>
+<h3 id="使用黑域"><a href="#使用黑域" class="headerlink" title="使用黑域"></a>使用黑域</h3><p>选择要监控的应用</p>
+<p><img src="https://ww2.sinaimg.cn/large/006tKfTcgy1fe9huhgvlcj30o817478e.jpg" alt=""></p>
 <p>当一个应用被黑域监控，在应用待机运行时候黑域会监控它运行的时间，当应用运行时间达到设定的时间（可以在设置中进行设置）黑域会强制关闭应用，如果你在手机后台任务管理中手动关闭这个应用，无论如何它都不可能自己再启动</p>
-<h2 id="写在最后">写在最后</h2>
-<div class="note success"><p>使用黑域不需要 ROOT ，通过 adb 执行一条命令的作用是让黑域能通过监控系统的一些核心 API 以达到阻止流氓应用在后台搞事情的效果，黑域本事无毒无害，也没有烦人的广告，赞👍</p>
+<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><div class="note success"><p>使用黑域不需要 ROOT ，通过 adb 执行一条命令的作用是让黑域能通过监控系统的一些核心 API 以达到阻止流氓应用在后台搞事情的效果，黑域本事无毒无害，也没有烦人的广告，赞👍</p>
 <p>感谢作者提供这么优秀的应用！</p>
 <p>如果在操作中有任何问题，你可以通过留言，或者微博，找到我</p>
 <p>PS：捐赠后捐赠链接还是显示在设置页面下方，不知道是不是BUG</p>
@@ -698,7 +683,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">10</span>
+                <span class="site-state-item-count">11</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -709,7 +694,7 @@
             
             <div class="site-state-item site-state-categories">
               <a href="/categories/index.html">
-                <span class="site-state-item-count">4</span>
+                <span class="site-state-item-count">5</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -800,7 +785,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#准备工作"><span class="nav-number">1.</span> <span class="nav-text">准备工作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#开始干活"><span class="nav-number">2.</span> <span class="nav-text">开始干活</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#下载安装黑域"><span class="nav-number">2.1.</span> <span class="nav-text">下载安装黑域</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#通过-adb-让黑域监控系统-api"><span class="nav-number">2.2.</span> <span class="nav-text">通过 adb 让黑域监控系统 API</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#使用黑域"><span class="nav-number">2.3.</span> <span class="nav-text">使用黑域</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#写在最后"><span class="nav-number">3.</span> <span class="nav-text">写在最后</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#准备工作"><span class="nav-number">1.</span> <span class="nav-text">准备工作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#开始干活"><span class="nav-number">2.</span> <span class="nav-text">开始干活</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#下载安装黑域"><span class="nav-number">2.1.</span> <span class="nav-text">下载安装黑域</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#通过-adb-让黑域监控系统-API"><span class="nav-number">2.2.</span> <span class="nav-text">通过 adb 让黑域监控系统 API</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#使用黑域"><span class="nav-number">2.3.</span> <span class="nav-text">使用黑域</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#写在最后"><span class="nav-number">3.</span> <span class="nav-text">写在最后</span></a></li></ol></div>
             
 
           </div>
