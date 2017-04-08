@@ -62,6 +62,34 @@
   </entry>
   
   <entry>
+    <title>来深圳一个月，今天我去了趟东门老街</title>
+    <link href="http://www.mymeek.com/2017/2017-04-08.html"/>
+    <id>http://www.mymeek.com/2017/2017-04-08.html</id>
+    <published>2017-04-07T14:01:15.000Z</published>
+    <updated>2017-04-08T15:58:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>  总感觉整个博客没有组织好，又不知道怎么能弄好，慢慢走一步填一个坑吧，刚开始，只要不停下来，相信有一天能做好！</p>
+<p>  周五一放假，基本周六都起不来，晃晃悠悠一天就没了，今天例外，早上九点想来，收拾了一下，十一点在楼下吃了早饭+午饭，然后背起我的所有家当，去了趟东门老街，去找找这个城市的历史 😄</p>
+<a id="more"></a>
+<p>  每到一个新的地方，总喜欢去翻翻他的历史，看看他的过去，深圳也不例外，刚来就在网上找了很多关于深圳的信息，从宝安县到深圳经济特区，关内关外，1979，改革前后，大逃港。。。文字看多了总想着亲自去老街走走，这不昨天刚发工资，今天就放假 😄 天时地利一个我 🙂 说走就走 😅</p>
+<p>  从交通局出发，先去了假日广场 Apple Store，换乘地铁直达东门老街，下了地铁定了位置开着导航，像个本地人一样，哼着小曲听着龙哥的声音就冲着目的地去了！一路上，人很多，地不干净，新的搂在盖，旧的楼依然在，一切像是被定格在了过去的某个年代，楼盖了一栋又一栋，人换了一波又一波，老街的痕迹还在，我把手放在老树上，像是一个问候，深圳，你好，我来了！ <img src="/media/14916656069351.jpg"></p>
+<p>  走过老街，马不停蹄的就去了文锦口岸，想去看看边境，看看30度年前那个无数人向往的地方，那些逃出大陆的人现在都在哪里？想着有机会能有个长着望着远方，讲自己的故事，讲那个动荡的年代，自己的斗争与奋斗，想听听他们用血和泪书写的香港精神。苦难的过去，他们流着的血和泪走过，和平的现在，他们回忆过去的苦难</p>
+<p>  嗯，走过的苦难刻骨铭心，奋斗的日子让人怀念。未来我会在这个城市生活，现在我要了解下这个城市的过去</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;  总感觉整个博客没有组织好，又不知道怎么能弄好，慢慢走一步填一个坑吧，刚开始，只要不停下来，相信有一天能做好！&lt;/p&gt;
+&lt;p&gt;  周五一放假，基本周六都起不来，晃晃悠悠一天就没了，今天例外，早上九点想来，收拾了一下，十一点在楼下吃了早饭+午饭，然后背起我的所有家当，去了趟东门老街，去找找这个城市的历史 😄&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://www.mymeek.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>整理整理</title>
     <link href="http://www.mymeek.com/2017/2017-04-07-2.html"/>
     <id>http://www.mymeek.com/2017/2017-04-07-2.html</id>
@@ -344,6 +372,56 @@
   </entry>
   
   <entry>
+    <title>博客文档内置标签</title>
+    <link href="http://www.mymeek.com/2017/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html"/>
+    <id>http://www.mymeek.com/2017/博客文档特殊样式.html</id>
+    <published>2017-04-02T21:55:50.000Z</published>
+    <updated>2017-04-07T16:19:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+人的一切痛苦，本质上都是对自己无能的愤怒
+</blockquote>
+<p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image"></p>
+<div align="center">
+<p><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1feawzl5i8mj31kw1147kd.jpg" width="500" alt="1"> <h7>地球是圆的，不要被图片误导哈</h7></p>
+</div>
+<div class="note default"><p>default Content (md partial supported) </p>
+</div>
+<div class="note primary"><p>primary Content (md partial supported) </p>
+</div>
+<div class="note success"><p>success Content (md partial supported) </p>
+</div>
+<div class="note info"><p>info Content (md partial supported) </p>
+</div>
+<div class="note warning"><p>warning Content (md partial supported) </p>
+</div>
+<div class="note danger"><p>danger Content (md partial supported) </p>
+</div>
+<p>控制文章在首页展示的内容，添加阅读全文的功能</p>
+<div class="note success"><p>在文章中添加 <code>&lt;!--more--&gt;</code> 来分割文章 表示，之后的内容只有点击阅读全文才能看见</p>
+</div>
+<div align="center">
+<img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hia4tvqj31401z4k1d.jpg" width="200" alt="手机端安装好的效果图">
+<p>
+手机端安装好的效果图
+</p>
+</div>
+]]></content>
+    
+    <summary type="html">
+    
+      一些 Next 内建的样式
+    
+    </summary>
+    
+      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo + GitHub Pages + 阿里域名 爬坑</title>
     <link href="http://www.mymeek.com/2017/2017-04-03-1.html"/>
     <id>http://www.mymeek.com/2017/2017-04-03-1.html</id>
@@ -394,56 +472,6 @@
       <category term="域名" scheme="http://www.mymeek.com/tags/%E5%9F%9F%E5%90%8D/"/>
     
       <category term="GitHub" scheme="http://www.mymeek.com/tags/GitHub/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客文档内置标签</title>
-    <link href="http://www.mymeek.com/2017/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html"/>
-    <id>http://www.mymeek.com/2017/博客文档特殊样式.html</id>
-    <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-07T16:19:10.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
-人的一切痛苦，本质上都是对自己无能的愤怒
-</blockquote>
-<p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image"></p>
-<div align="center">
-<p><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1feawzl5i8mj31kw1147kd.jpg" width="500" alt="1"> <h7>地球是圆的，不要被图片误导哈</h7></p>
-</div>
-<div class="note default"><p>default Content (md partial supported) </p>
-</div>
-<div class="note primary"><p>primary Content (md partial supported) </p>
-</div>
-<div class="note success"><p>success Content (md partial supported) </p>
-</div>
-<div class="note info"><p>info Content (md partial supported) </p>
-</div>
-<div class="note warning"><p>warning Content (md partial supported) </p>
-</div>
-<div class="note danger"><p>danger Content (md partial supported) </p>
-</div>
-<p>控制文章在首页展示的内容，添加阅读全文的功能</p>
-<div class="note success"><p>在文章中添加 <code>&lt;!--more--&gt;</code> 来分割文章 表示，之后的内容只有点击阅读全文才能看见</p>
-</div>
-<div align="center">
-<img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hia4tvqj31401z4k1d.jpg" width="200" alt="手机端安装好的效果图">
-<p>
-手机端安装好的效果图
-</p>
-</div>
-]]></content>
-    
-    <summary type="html">
-    
-      一些 Next 内建的样式
-    
-    </summary>
-    
-      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
