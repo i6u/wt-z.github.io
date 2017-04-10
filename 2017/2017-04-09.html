@@ -113,7 +113,7 @@
 <meta property="og:url" content="http://www.mymeek.com/2017/2017-04-09.html">
 <meta property="og:site_name" content="Witt">
 <meta property="og:description" content="线程是进程的子集">
-<meta property="og:updated_time" content="2017-04-09T16:41:27.000Z">
+<meta property="og:updated_time" content="2017-04-10T01:00:22.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="进程&线程">
 <meta name="twitter:description" content="线程是进程的子集">
@@ -476,7 +476,11 @@
 </ul>
 <p>不同的进程可以共享相同的 <code>内存代码</code> 或相同的 <code>内存数据</code> 在内存模型下</p>
 <h3 id="进程的状态">进程的状态：</h3>
-<p>运行态：进程占有处理器运行 就绪态：进程具有运行条件等待处理器运行 等待态：进程因等待资源，输入输出，信号等，不具备运行条件</p>
+<ul>
+<li>运行态：进程占有处理器运行</li>
+<li>就绪态：进程具有运行条件等待处理器运行</li>
+<li>等待态：进程因等待资源，输入输出，信号等，不具备运行条件</li>
+</ul>
 <h3 id="进程挂起">进程挂起：</h3>
 <p>因操作系统无法预估进程的数目与资源需求，计算机操作系统运行的过程中可能出现资源不足的情况，就会导致性能低和死锁两种情况</p>
 <p>解决方法：剥夺某些进程的内存及其他资源，调入OS管理的对换区，不参加进程调度，待适当的时候再调入内存，恢复资源，参加运行，这就是进程挂起</p>
