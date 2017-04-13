@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[不辜负青春]]></title>
+      <title><![CDATA[这他喵说的有点道理]]></title>
       <url>%2F2017%2F2017-04-11.html</url>
       <content type="text"><![CDATA[和一些人的关系像平行线，一辈子相守相望，见于眼底藏于心间。就怕耐不住寂寞，冲动而成了相交线，在一个点尽情拥抱，从此便离得越来越远，再也不见。遇见这样的人，因为不想做恋人只能一时，所以才选择做朋友能一世。 – 摘自刘同《你的孤独虽败犹荣》]]></content>
     </entry>
@@ -18,7 +18,7 @@
     
     <entry>
       <title><![CDATA[进程&线程]]></title>
-      <url>%2F2017%2F2017-04-09.html</url>
+      <url>%2F2017%2Fdate.html</url>
       <content type="text"><![CDATA[线程是进程的子集 进程 进程的提出： 为了方便操作系统全方位的管理计算机中运行的程序，操作系统为正在运行的程序建立的一个管理实体 进程的概念： 进程是一个具有一定独立功能的程序，关于某个数据集合的一次运行活动；进程也是操作系统进行资源调度和分配的一个独立单位 一个进程包含五个实体部分 操作系统管理运行程序的 数据结构P 运行程序的 内存代码C 运行程序的 内存数据D 运行程序的 通用寄存器信息R 操作系统控制程序执行的 程序状态字信息PSW 不同的进程可以共享相同的 内存代码 或相同的 内存数据 在内存模型下 进程的状态： 运行态：进程占有处理器运行 就绪态：进程具有运行条件等待处理器运行 等待态：进程因等待资源，输入输出，信号等，不具备运行条件 进程挂起： 因操作系统无法预估进程的数目与资源需求，计算机操作系统运行的过程中可能出现资源不足的情况，就会导致性能低和死锁两种情况 解决方法：剥夺某些进程的内存及其他资源，调入OS管理的对换区，不参加进程调度，待适当的时候再调入内存，恢复资源，参加运行，这就是进程挂起 挂起状态和等待状态有本质区别，后者占有申请到的资源处于等待，前者没有任何资源 线程 单线程结构的进程 早起计算机支持的进程是一个经典的单线程结构的进程，其中包括一资源部分（用户地址空间，进程控制块）和一个执行序列（用户栈，核心栈） 单线程结构在并发程序设计上存在的问题 进程切换开销大 进程通信开销大 因为任务并非无限可分 限制了进程并发的粒度 降低了并发计算的效率 多线程结构的进程 多线程环境下进程的概念 在多线程环境中，进程是操作系统中进行保护和分配资源的独立单位。具有： 用来容纳进程影像的虚拟地址空间 对进程，文件和设备的存取保护机制 多线程环境下线程的概念 线程是进程的一条执行路径，是调度的基本单位，同一个进程中的所有线程共享进程获得的主控空间和资源。它具有： 线程执行的状态 受保护的线程上下文 当线程不运行时，用户存储现场信息 独立的程序指令计数器 执行堆栈 容纳局部变量和静态存储器 多线程环境下，线程的状态与调度 线程有运行，就绪和睡眠，无挂起（挂起与资源有关，只有进程才有挂起状态） 与线程变换有关的线程操作 孵化，封锁，活化，剥夺，指派，结束 两种线程 OS感知线程环境下： 处理器调度的对象是线程 (运行状态在线程上) 进程没有状态（或者只有挂起状态） OS不感知线程环境下： 处理器调度的对象任是进程 用户控件中的用户调度程序调度线程 并发多线程程序设计优点 快速线程切换 减少（系统）管理开销 （线程）通信易于实现 在变量中传递信息，应为变量是一个资源，资源由进程管理 并行程度提高 节省内存空间]]></content>
     </entry>
 
@@ -94,16 +94,16 @@
 
     
     <entry>
-      <title><![CDATA[hexo next 动态背景]]></title>
-      <url>%2F2017%2F2017-04-03.html</url>
-      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
+      <title><![CDATA[博客文档内置标签]]></title>
+      <url>%2F2017%2F%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html</url>
+      <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 地球是圆的，不要被图片误导哈 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported) 控制文章在首页展示的内容，添加阅读全文的功能 在文章中添加 &lt;!--more--&gt; 来分割文章 表示，之后的内容只有点击阅读全文才能看见 手机端安装好的效果图]]></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[博客文档内置标签]]></title>
-      <url>%2F2017%2F%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html</url>
-      <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 地球是圆的，不要被图片误导哈 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported) 控制文章在首页展示的内容，添加阅读全文的功能 在文章中添加 &lt;!--more--&gt; 来分割文章 表示，之后的内容只有点击阅读全文才能看见 手机端安装好的效果图]]></content>
+      <title><![CDATA[hexo next 动态背景]]></title>
+      <url>%2F2017%2F2017-04-03.html</url>
+      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
     </entry>
 
     

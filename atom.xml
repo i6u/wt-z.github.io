@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-04-10T22:19:02.000Z</updated>
+  <updated>2017-04-13T01:04:26.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>不辜负青春</title>
+    <title>这他喵说的有点道理</title>
     <link href="http://www.mymeek.com/2017/2017-04-11.html"/>
     <id>http://www.mymeek.com/2017/2017-04-11.html</id>
     <published>2017-04-10T22:13:50.000Z</published>
-    <updated>2017-04-10T22:19:02.000Z</updated>
+    <updated>2017-04-13T01:04:26.000Z</updated>
     
     <content type="html"><![CDATA[<div class="note "><p>和一些人的关系像平行线，一辈子相守相望，见于眼底藏于心间。<br>就怕耐不住寂寞，冲动而成了相交线，在一个点尽情拥抱，<br>从此便离得越来越远，再也不见。<br>遇见这样的人，因为不想做恋人只能一时，所以才选择做朋友能一世。</p>
 <p>– 摘自刘同《你的孤独虽败犹荣》</p>
@@ -63,8 +63,8 @@
   
   <entry>
     <title>进程&amp;线程</title>
-    <link href="http://www.mymeek.com/2017/2017-04-09.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-09.html</id>
+    <link href="http://www.mymeek.com/2017/date.html"/>
+    <id>http://www.mymeek.com/2017/date.html</id>
     <published>2017-04-09T14:31:37.000Z</published>
     <updated>2017-04-10T01:00:22.000Z</updated>
     
@@ -597,30 +597,6 @@
   </entry>
   
   <entry>
-    <title>hexo next 动态背景</title>
-    <link href="http://www.mymeek.com/2017/2017-04-03.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-03.html</id>
-    <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-07T16:18:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<figure class="highlight plain"><figcaption><span><body> 标签内</body></span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&#123;% if theme.canvas_nest %&#125;</div><div class="line">&lt;script type=&quot;text/javascript&quot;</div><div class="line">color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure>
-<p>color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;body&gt; 标签内&lt;/body&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;
-    
-    </summary>
-    
-      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>博客文档内置标签</title>
     <link href="http://www.mymeek.com/2017/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html"/>
     <id>http://www.mymeek.com/2017/博客文档特殊样式.html</id>
@@ -660,6 +636,30 @@
     <summary type="html">
     
       一些 Next 内建的样式
+    
+    </summary>
+    
+      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo next 动态背景</title>
+    <link href="http://www.mymeek.com/2017/2017-04-03.html"/>
+    <id>http://www.mymeek.com/2017/2017-04-03.html</id>
+    <published>2017-04-02T21:55:50.000Z</published>
+    <updated>2017-04-07T16:18:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><figcaption><span><body> 标签内</body></span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&#123;% if theme.canvas_nest %&#125;</div><div class="line">&lt;script type=&quot;text/javascript&quot;</div><div class="line">color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure>
+<p>color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;body&gt; 标签内&lt;/body&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;
     
     </summary>
     
