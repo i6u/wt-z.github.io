@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-04-23T14:14:33.000Z</updated>
+  <updated>2017-04-25T12:31:26.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>刚下过雨的深圳</title>
+    <link href="http://www.mymeek.com/2017/2017-04-25.html"/>
+    <id>http://www.mymeek.com/2017/2017-04-25.html</id>
+    <published>2017-04-25T12:03:37.000Z</published>
+    <updated>2017-04-25T12:31:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+下雨的时候，有一份匆忙，有一份安静
+</blockquote>
+<a id="more"></a>
+<div class="note "><p>刚下过雨的深圳<br>天还没彻底放晴<br>空气中零星飘着细雨</p>
+<p>四月雨后的深圳<br>天气凉凉的<br>穿着短袖，走过小巷<br>摆动手臂间，风划过指尖<br>别样的感觉<br>若是走快一点<br>越是喜欢这种感觉<br>风仿佛停在那里不动<br>空气伴着细雨<br>划过肌肤<br>轻轻的，凉凉的</p>
+<p>雨后<br>所有的东西都焕然一新<br>感觉眼睛都明亮了许多<br>深圳在海边，海边多雨<br>不知海边的云能否飘到远方</p>
+</div>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+下雨的时候，有一份匆忙，有一份安静
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="小句" scheme="http://www.mymeek.com/categories/%E5%B0%8F%E5%8F%A5/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>停下来只有回忆，一直走才有希望</title>
@@ -626,56 +656,6 @@
   </entry>
   
   <entry>
-    <title>博客文档内置标签</title>
-    <link href="http://www.mymeek.com/2017/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html"/>
-    <id>http://www.mymeek.com/2017/博客文档特殊样式.html</id>
-    <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-07T16:19:10.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
-人的一切痛苦，本质上都是对自己无能的愤怒
-</blockquote>
-<p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image"></p>
-<div align="center">
-<p><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1feawzl5i8mj31kw1147kd.jpg" width="500" alt="1"> <h7>地球是圆的，不要被图片误导哈</h7></p>
-</div>
-<div class="note default"><p>default Content (md partial supported) </p>
-</div>
-<div class="note primary"><p>primary Content (md partial supported) </p>
-</div>
-<div class="note success"><p>success Content (md partial supported) </p>
-</div>
-<div class="note info"><p>info Content (md partial supported) </p>
-</div>
-<div class="note warning"><p>warning Content (md partial supported) </p>
-</div>
-<div class="note danger"><p>danger Content (md partial supported) </p>
-</div>
-<p>控制文章在首页展示的内容，添加阅读全文的功能</p>
-<div class="note success"><p>在文章中添加 <code>&lt;!--more--&gt;</code> 来分割文章 表示，之后的内容只有点击阅读全文才能看见</p>
-</div>
-<div align="center">
-<img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hia4tvqj31401z4k1d.jpg" width="200" alt="手机端安装好的效果图">
-<p>
-手机端安装好的效果图
-</p>
-</div>
-]]></content>
-    
-    <summary type="html">
-    
-      一些 Next 内建的样式
-    
-    </summary>
-    
-      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo + GitHub Pages + 阿里域名 爬坑</title>
     <link href="http://www.mymeek.com/2017/2017-04-03-1.html"/>
     <id>http://www.mymeek.com/2017/2017-04-03-1.html</id>
@@ -754,6 +734,56 @@
   </entry>
   
   <entry>
+    <title>博客文档内置标签</title>
+    <link href="http://www.mymeek.com/2017/%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html"/>
+    <id>http://www.mymeek.com/2017/博客文档特殊样式.html</id>
+    <published>2017-04-02T21:55:50.000Z</published>
+    <updated>2017-04-07T16:19:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+人的一切痛苦，本质上都是对自己无能的愤怒
+</blockquote>
+<p><img src="https://cdn.pixabay.com/photo/2017/02/02/22/08/tunnel-2033983_1280.jpg" class="full-image"></p>
+<div align="center">
+<p><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1feawzl5i8mj31kw1147kd.jpg" width="500" alt="1"> <h7>地球是圆的，不要被图片误导哈</h7></p>
+</div>
+<div class="note default"><p>default Content (md partial supported) </p>
+</div>
+<div class="note primary"><p>primary Content (md partial supported) </p>
+</div>
+<div class="note success"><p>success Content (md partial supported) </p>
+</div>
+<div class="note info"><p>info Content (md partial supported) </p>
+</div>
+<div class="note warning"><p>warning Content (md partial supported) </p>
+</div>
+<div class="note danger"><p>danger Content (md partial supported) </p>
+</div>
+<p>控制文章在首页展示的内容，添加阅读全文的功能</p>
+<div class="note success"><p>在文章中添加 <code>&lt;!--more--&gt;</code> 来分割文章 表示，之后的内容只有点击阅读全文才能看见</p>
+</div>
+<div align="center">
+<img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fe9hia4tvqj31401z4k1d.jpg" width="200" alt="手机端安装好的效果图">
+<p>
+手机端安装好的效果图
+</p>
+</div>
+]]></content>
+    
+    <summary type="html">
+    
+      一些 Next 内建的样式
+    
+    </summary>
+    
+      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>GitHub Pages + Hexo 我的博客搭建之旅</title>
     <link href="http://www.mymeek.com/2017/GitHub-Pages-Hexo-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85-1.html"/>
     <id>http://www.mymeek.com/2017/GitHub-Pages-Hexo-我的博客搭建之旅-1.html</id>
@@ -806,45 +836,6 @@
     
     
       <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://www.mymeek.com/2017/hello-world.html"/>
-    <id>http://www.mymeek.com/2017/hello-world.html</id>
-    <published>2017-03-29T01:18:00.000Z</published>
-    <updated>2017-04-03T11:01:37.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<a id="more"></a>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;quick-start&quot;&gt;Quick Start&lt;/h2&gt;
-&lt;h3 id=&quot;create-a-new-post&quot;&gt;Create a new post&lt;/h3&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;run-server&quot;&gt;Run server&lt;/h3&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
     
   </entry>
   

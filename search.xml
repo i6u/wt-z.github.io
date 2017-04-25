@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[刚下过雨的深圳]]></title>
+      <url>%2F2017%2F2017-04-25.html</url>
+      <content type="text"><![CDATA[下雨的时候，有一份匆忙，有一份安静 刚下过雨的深圳天还没彻底放晴空气中零星飘着细雨 四月雨后的深圳天气凉凉的穿着短袖，走过小巷摆动手臂间，风划过指尖别样的感觉若是走快一点越是喜欢这种感觉风仿佛停在那里不动空气伴着细雨划过肌肤轻轻的，凉凉的 雨后所有的东西都焕然一新感觉眼睛都明亮了许多深圳在海边，海边多雨不知海边的云能否飘到远方]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[停下来只有回忆，一直走才有希望]]></title>
       <url>%2F2017%2F2017-04-23.html</url>
       <content type="text"><![CDATA[一星期过去了，什么也没干！人要是懒起来，时间就像流水一样，前一秒决定好的事，转身已是经年。 人呀，总要时刻敲打，走的慢了停下来了要敲打，松散懒惰的劲起来了要敲打，好事贪玩的心多了要敲打，一直有个人在身边鞭策着自己总是好的，以前这个人是父母是老师，现在这个人是自个，一直想着往前走往上走，之后的路就没啥大问题。 以前被人敲打着，知道疼了才会记事，现在要是闲下来久了，心里就觉得别扭，愧疚，无处安放，就想着找点事来做，或翻翻书，或看看课，又或是走走路，有个喜欢做的事来做，心里踏实许多。 青春散场，而立之年，越是能看见自己成长，越是对未来充满信心，况且一直在做自己喜欢的事，这真是幸运。 愿所有梦想都在路上，愿你在路上风雨无畏]]></content>
@@ -108,13 +115,6 @@
 
     
     <entry>
-      <title><![CDATA[博客文档内置标签]]></title>
-      <url>%2F2017%2F%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html</url>
-      <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 地球是圆的，不要被图片误导哈 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported) 控制文章在首页展示的内容，添加阅读全文的功能 在文章中添加 &lt;!--more--&gt; 来分割文章 表示，之后的内容只有点击阅读全文才能看见 手机端安装好的效果图]]></content>
-    </entry>
-
-    
-    <entry>
       <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
       <url>%2F2017%2F2017-04-03-1.html</url>
       <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
@@ -125,6 +125,13 @@
       <title><![CDATA[hexo next 动态背景]]></title>
       <url>%2F2017%2F2017-04-03.html</url>
       <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[博客文档内置标签]]></title>
+      <url>%2F2017%2F%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html</url>
+      <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 地球是圆的，不要被图片误导哈 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported) 控制文章在首页展示的内容，添加阅读全文的功能 在文章中添加 &lt;!--more--&gt; 来分割文章 表示，之后的内容只有点击阅读全文才能看见 手机端安装好的效果图]]></content>
     </entry>
 
     
