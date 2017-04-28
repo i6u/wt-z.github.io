@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-04-28T12:58:07.000Z</updated>
+  <updated>2017-04-28T14:25:38.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.mymeek.com/2017/2017-04-28.html"/>
     <id>http://www.mymeek.com/2017/2017-04-28.html</id>
     <published>2017-04-28T09:03:37.000Z</published>
-    <updated>2017-04-28T12:58:07.000Z</updated>
+    <updated>2017-04-28T14:25:38.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="问题">问题</h3>
 <p>向远程仓库 push 了一次错误的 commit ，要把本地正确的版本 push 到远程仓库，一般先要 pull 远程仓库最新的 commit ，在本地解决可能出现的冲突后才能成功 push ，已知远程仓库最新的 commit 和本地仓库最新的 commit 存在冲突，所以无法正常 push <a id="more"></a></p>
@@ -29,6 +29,7 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">检查本地 commit 历史 </div><div class="line">git log</div><div class="line"></div><div class="line">回滚 </div><div class="line">git reset --hard [commit 标识符]</div><div class="line"></div><div class="line">强制push命令</div><div class="line">git push --force [远程仓库地址] [本地分支名]:[远程分支名]</div></pre></td></tr></table></figure>
 <h3 id="注意">注意</h3>
 <p>强制 push 会删除远程仓库 push 之后所有的 push ，也就是说，在你回滚的那个版本之后所有的 push 都会被干掉！需要谨慎操作</p>
+<p>与其说是删除了一次错误的 push ，这更像是回滚远程仓库的版本</p>
 <p>参考：<a href="https://ruby-china.org/topics/7365" class="uri" target="_blank" rel="external">https://ruby-china.org/topics/7365</a></p>
 ]]></content>
     
@@ -685,30 +686,6 @@
   </entry>
   
   <entry>
-    <title>hexo next 动态背景</title>
-    <link href="http://www.mymeek.com/2017/2017-04-03.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-03.html</id>
-    <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-07T16:18:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<figure class="highlight plain"><figcaption><span><body> 标签内</body></span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&#123;% if theme.canvas_nest %&#125;</div><div class="line">&lt;script type=&quot;text/javascript&quot;</div><div class="line">color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure>
-<p>color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;body&gt; 标签内&lt;/body&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;
-    
-    </summary>
-    
-      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo + GitHub Pages + 阿里域名 爬坑</title>
     <link href="http://www.mymeek.com/2017/2017-04-03-1.html"/>
     <id>http://www.mymeek.com/2017/2017-04-03-1.html</id>
@@ -759,6 +736,30 @@
       <category term="域名" scheme="http://www.mymeek.com/tags/%E5%9F%9F%E5%90%8D/"/>
     
       <category term="GitHub" scheme="http://www.mymeek.com/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo next 动态背景</title>
+    <link href="http://www.mymeek.com/2017/2017-04-03.html"/>
+    <id>http://www.mymeek.com/2017/2017-04-03.html</id>
+    <published>2017-04-02T21:55:50.000Z</published>
+    <updated>2017-04-07T16:18:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><figcaption><span><body> 标签内</body></span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&#123;% if theme.canvas_nest %&#125;</div><div class="line">&lt;script type=&quot;text/javascript&quot;</div><div class="line">color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure>
+<p>color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;body&gt; 标签内&lt;/body&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;
+    
+    </summary>
+    
+      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
