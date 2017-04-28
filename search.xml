@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[删除远程仓库的一次错误提交]]></title>
       <url>%2F2017%2F2017-04-28.html</url>
-      <content type="text"><![CDATA[问题 向远程仓库 push 了一次错误的 commit ，要把本地正确的版本 push 到远程仓库，一般先要 pull 远程仓库最新的 commit ，在本地解决可能出现的冲突后才能成功 push ，已知远程仓库最新的 commit 和本地仓库最新的 commit 存在冲突，所以无法正常 push 解决思路 本地回滚到没有问题的一次 commit 然后强制 push 12345678检查本地 commit 历史 git log回滚 git reset --hard [commit 标识符]强制push命令git push --force [远程仓库地址] [本地分支名]:[远程分支名] 注意 强制 push 会删除远程仓库 push 之后所有的 commit ，也就是说，在你回滚的那个版本之后，如果有哥们向远程仓库有 push 操作，都会被干掉！可以的话，提前沟通好 参考：https://ruby-china.org/topics/7365]]></content>
+      <content type="text"><![CDATA[问题 向远程仓库 push 了一次错误的 commit ，要把本地正确的版本 push 到远程仓库，一般先要 pull 远程仓库最新的 commit ，在本地解决可能出现的冲突后才能成功 push ，已知远程仓库最新的 commit 和本地仓库最新的 commit 存在冲突，所以无法正常 push ### 解决思路 本地回滚到没有问题的一次 commit 然后强制 push 12345678检查本地 commit 历史 git log回滚 git reset --hard [commit 标识符]强制push命令git push --force [远程仓库地址] [本地分支名]:[远程分支名] 注意 强制 push 会删除远程仓库 push 之后所有的 commit ，也就是说，在你回滚的那个版本之后，如果有哥们向远程仓库有 push 操作，都会被干掉！可以的话，提前沟通好 参考：https://ruby-china.org/topics/7365]]></content>
     </entry>
 
     
