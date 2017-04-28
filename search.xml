@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[删除远程仓库的一次错误提交]]></title>
       <url>%2F2017%2F2017-04-28.html</url>
-      <content type="text"><![CDATA[问题 向远程仓库 push 了一次错误的 commit ，要把本地正确的版本 push 到远程仓库，一般先要 pull 远程仓库最新的 commit ，在本地解决可能出现的冲突后才能成功 push ，已知远程仓库最新的 commit 和本地仓库最新的 commit 存在冲突，所以无法正常 push ### 解决思路 本地回滚到没有问题的一次 commit 然后强制 push 12345678检查本地 commit 历史 git log回滚 git reset --hard [commit 标识符]强制push命令git push --force [远程仓库地址] [本地分支名]:[远程分支名] 注意 强制 push 会删除远程仓库 push 之后所有的 commit ，也就是说，在你回滚的那个版本之后，如果有哥们向远程仓库有 push 操作，都会被干掉！可以的话，提前沟通好 参考：https://ruby-china.org/topics/7365]]></content>
+      <content type="text"><![CDATA[问题 向远程仓库 push 了一次错误的 commit ，要把本地正确的版本 push 到远程仓库，一般先要 pull 远程仓库最新的 commit ，在本地解决可能出现的冲突后才能成功 push ，已知远程仓库最新的 commit 和本地仓库最新的 commit 存在冲突，所以无法正常 push 解决思路 本地回滚到没有问题的一次 commit 然后强制 push 12345678检查本地 commit 历史 git log回滚 git reset --hard [commit 标识符]强制push命令git push --force [远程仓库地址] [本地分支名]:[远程分支名] 注意 强制 push 会删除远程仓库 push 之后所有的 commit ，也就是说，在你回滚的那个版本之后，如果有哥们向远程仓库有 push 操作，都会被干掉！可以的话，提前沟通好 参考：https://ruby-china.org/topics/7365]]></content>
     </entry>
 
     
@@ -122,16 +122,16 @@
 
     
     <entry>
-      <title><![CDATA[hexo next 动态背景]]></title>
-      <url>%2F2017%2F2017-04-03.html</url>
-      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
+      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
+      <url>%2F2017%2F2017-04-03-1.html</url>
+      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
-      <url>%2F2017%2F2017-04-03-1.html</url>
-      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
+      <title><![CDATA[hexo next 动态背景]]></title>
+      <url>%2F2017%2F2017-04-03.html</url>
+      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
     </entry>
 
     
