@@ -115,7 +115,7 @@
 <meta property="og:site_name" content="Witt">
 <meta property="og:description" content="问题
 向远程仓库 push 了一次错误的 commit ，要把本地正确的版本 push 到远程仓库，一般先要 pull 远程仓库最新的 commit ，在本地解决可能出现的冲突后才能成功 push ，已知远程仓库最新的 commit 和本地仓库最新的 commit 存在冲突，所以无法正常 push">
-<meta property="og:updated_time" content="2017-04-28T12:54:44.000Z">
+<meta property="og:updated_time" content="2017-04-28T12:58:07.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="删除远程仓库的一次错误提交">
 <meta name="twitter:description" content="问题
@@ -468,7 +468,7 @@
 <p>本地回滚到没有问题的一次 commit 然后强制 push</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">检查本地 commit 历史 </div><div class="line">git log</div><div class="line"></div><div class="line">回滚 </div><div class="line">git reset --hard [commit 标识符]</div><div class="line"></div><div class="line">强制push命令</div><div class="line">git push --force [远程仓库地址] [本地分支名]:[远程分支名]</div></pre></td></tr></table></figure>
 <h3 id="注意">注意</h3>
-<p>强制 push 会删除远程仓库 push 之后所有的 commit ，也就是说，在你回滚的那个版本之后，如果有哥们向远程仓库有 push 操作，都会被干掉！可以的话，提前沟通好</p>
+<p>强制 push 会删除远程仓库 push 之后所有的 push ，也就是说，在你回滚的那个版本之后所有的 push 都会被干掉！需要谨慎操作</p>
 <p>参考：<a href="https://ruby-china.org/topics/7365" class="uri" target="_blank" rel="external">https://ruby-china.org/topics/7365</a></p>
 
       
