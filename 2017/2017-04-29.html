@@ -107,22 +107,19 @@
 
 
 
-<meta name="description" content="同一个对象中使用 synchronized 修饰的代码（方法或代码块），同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问
-当有线程正在访问一个对象中使用 synchronized 修饰的代码，其他线程对这个对象中没有被 synchronized 修饰的代码访问不受影响
-同一个对象中，如果有多段被 synchronized 修饰的代码，当其中一段被修饰的代码被一个线程访">
+<meta name="description" content="介绍 Java 关键字 synchronized 
+用来确保同一个对象中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Java 同步关键字 synchronized">
+<meta property="og:title" content="Java 关键字 synchronized">
 <meta property="og:url" content="http://www.mymeek.com/2017/2017-04-29.html">
 <meta property="og:site_name" content="Witt">
-<meta property="og:description" content="同一个对象中使用 synchronized 修饰的代码（方法或代码块），同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问
-当有线程正在访问一个对象中使用 synchronized 修饰的代码，其他线程对这个对象中没有被 synchronized 修饰的代码访问不受影响
-同一个对象中，如果有多段被 synchronized 修饰的代码，当其中一段被修饰的代码被一个线程访">
-<meta property="og:updated_time" content="2017-04-29T06:50:58.000Z">
+<meta property="og:description" content="介绍 Java 关键字 synchronized 
+用来确保同一个对象中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问">
+<meta property="og:updated_time" content="2017-04-29T07:21:01.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Java 同步关键字 synchronized">
-<meta name="twitter:description" content="同一个对象中使用 synchronized 修饰的代码（方法或代码块），同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问
-当有线程正在访问一个对象中使用 synchronized 修饰的代码，其他线程对这个对象中没有被 synchronized 修饰的代码访问不受影响
-同一个对象中，如果有多段被 synchronized 修饰的代码，当其中一段被修饰的代码被一个线程访">
+<meta name="twitter:title" content="Java 关键字 synchronized">
+<meta name="twitter:description" content="介绍 Java 关键字 synchronized 
+用来确保同一个对象中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问">
 
 
 
@@ -156,7 +153,7 @@
 
 
 
-  <title> Java 同步关键字 synchronized | Witt </title>
+  <title> Java 关键字 synchronized | Witt </title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
@@ -371,7 +368,7 @@
             
             
               
-                Java 同步关键字 synchronized
+                Java 关键字 synchronized
               
             
           </h1>
@@ -436,7 +433,7 @@
 
           
           
-             <span id="/2017/2017-04-29.html" class="leancloud_visitors" data-flag-title="Java 同步关键字 synchronized">
+             <span id="/2017/2017-04-29.html" class="leancloud_visitors" data-flag-title="Java 关键字 synchronized">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -465,12 +462,14 @@
       
 
       
-        <ol style="list-style-type: decimal">
-<li>同一个对象中使用 synchronized 修饰的代码（方法或代码块），同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问</li>
+        <h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p> <strong>Java 关键字 synchronized </strong></p>
+<p>用来确保<strong><code>同一个对象</code></strong>中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问<br><a id="more"></a></p>
+<ol>
+<li>同一个对象中使用 synchronized 修饰的代码，同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问这段代码</li>
 <li>当有线程正在访问一个对象中使用 synchronized 修饰的代码，其他线程对这个对象中没有被 synchronized 修饰的代码访问不受影响</li>
 <li>同一个对象中，如果有多段被 synchronized 修饰的代码，当其中一段被修饰的代码被一个线程访问时，其他被修饰的代码不能被其他线程访问，即 synchronized 是一个对象锁</li>
 </ol>
-<p><a href="http://blog.csdn.net/xiao__gui/article/details/8188833" class="uri" target="_blank" rel="external">http://blog.csdn.net/xiao__gui/article/details/8188833</a> <a href="http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html" class="uri" target="_blank" rel="external">http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html</a></p>
+<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p> <a href="http://blog.csdn.net/xiao__gui/article/details/8188833" target="_blank" rel="external">http://blog.csdn.net/xiao__gui/article/details/8188833</a><br><a href="http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html" target="_blank" rel="external">http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html</a></p>
 
       
     </div>
@@ -520,7 +519,7 @@
     </li>
     <li class="post-copyright-link">
       <strong>本文链接：</strong>
-      <a href="http://www.mymeek.com/2017/2017-04-29.html" title="Java 同步关键字 synchronized">http://www.mymeek.com/2017/2017-04-29.html</a>
+      <a href="http://www.mymeek.com/2017/2017-04-29.html" title="Java 关键字 synchronized">http://www.mymeek.com/2017/2017-04-29.html</a>
     </li>
     <li class="post-copyright-license">
       <strong>版权声明： </strong>
@@ -623,8 +622,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview sidebar-panel sidebar-panel-active">
+      <section class="site-overview sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="/uploads/avatar.jpg"
@@ -731,6 +739,22 @@
 
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#介绍"><span class="nav-number">1.</span> <span class="nav-text">介绍</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#参考"><span class="nav-number">2.</span> <span class="nav-text">参考</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-04-29T06:50:58.000Z</updated>
+  <updated>2017-04-29T07:21:01.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -16,25 +16,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Java 同步关键字 synchronized</title>
+    <title>Java 关键字 synchronized</title>
     <link href="http://www.mymeek.com/2017/2017-04-29.html"/>
     <id>http://www.mymeek.com/2017/2017-04-29.html</id>
     <published>2017-04-29T06:53:37.000Z</published>
-    <updated>2017-04-29T06:50:58.000Z</updated>
+    <updated>2017-04-29T07:21:01.000Z</updated>
     
-    <content type="html"><![CDATA[<ol style="list-style-type: decimal">
-<li>同一个对象中使用 synchronized 修饰的代码（方法或代码块），同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问</li>
+    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p> <strong>Java 关键字 synchronized </strong></p>
+<p>用来确保<strong><code>同一个对象</code></strong>中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问<br><a id="more"></a></p>
+<ol>
+<li>同一个对象中使用 synchronized 修饰的代码，同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问这段代码</li>
 <li>当有线程正在访问一个对象中使用 synchronized 修饰的代码，其他线程对这个对象中没有被 synchronized 修饰的代码访问不受影响</li>
 <li>同一个对象中，如果有多段被 synchronized 修饰的代码，当其中一段被修饰的代码被一个线程访问时，其他被修饰的代码不能被其他线程访问，即 synchronized 是一个对象锁</li>
 </ol>
-<p><a href="http://blog.csdn.net/xiao__gui/article/details/8188833" class="uri" target="_blank" rel="external">http://blog.csdn.net/xiao__gui/article/details/8188833</a> <a href="http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html" class="uri" target="_blank" rel="external">http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html</a></p>
+<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p> <a href="http://blog.csdn.net/xiao__gui/article/details/8188833" target="_blank" rel="external">http://blog.csdn.net/xiao__gui/article/details/8188833</a><br><a href="http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html" target="_blank" rel="external">http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;ol style=&quot;list-style-type: decimal&quot;&gt;
-&lt;li&gt;同一个对象中使用 synchronized 修饰的代码（方法或代码块），同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问&lt;/li&gt;
-&lt;li&gt;当有线程正在访问一个对象中使
+      &lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt; &lt;strong&gt;Java 关键字 synchronized &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;用来确保&lt;strong&gt;&lt;code&gt;同一个对象&lt;/code&gt;&lt;/strong&gt;中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问&lt;br&gt;
     
     </summary>
     
