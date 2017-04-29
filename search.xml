@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[Java 同步关键字 synchronized]]></title>
+      <url>%2F2017%2F2017-04-29.html</url>
+      <content type="text"><![CDATA[同一个对象中使用 synchronized 修饰的代码（方法或代码块），同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问 当有线程正在访问一个对象中使用 synchronized 修饰的代码，其他线程对这个对象中没有被 synchronized 修饰的代码访问不受影响 同一个对象中，如果有多段被 synchronized 修饰的代码，当其中一段被修饰的代码被一个线程访问时，其他被修饰的代码不能被其他线程访问，即 synchronized 是一个对象锁 http://blog.csdn.net/xiao__gui/article/details/8188833 http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[删除远程仓库的一次错误提交]]></title>
       <url>%2F2017%2F2017-04-28.html</url>
       <content type="text"><![CDATA[问题 向远程仓库 push 了一次错误的 commit ，要把本地正确的版本 push 到远程仓库，一般先要 pull 远程仓库最新的 commit ，在本地解决可能出现的冲突后才能成功 push ，已知远程仓库最新的 commit 和本地仓库最新的 commit 存在冲突，所以无法正常 push 解决思路 本地回滚到没有问题的一次 commit 然后强制 push 12345678检查本地 commit 历史 git log回滚 git reset --hard [commit 标识符]强制push命令git push --force [远程仓库地址] [本地分支名]:[远程分支名] 注意 强制 push 会删除远程仓库 push 之后所有的 push ，也就是说，在你回滚的那个版本之后所有的 push 都会被干掉！需要谨慎操作 与其说是删除了一次错误的 push ，这更像是回滚远程仓库的版本 参考：https://ruby-china.org/topics/7365]]></content>
