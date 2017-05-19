@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-05-03T15:18:20.000Z</updated>
+  <updated>2017-05-19T03:22:58.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -14,6 +14,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为什么说 Mac 是最适合编程的工具</title>
+    <link href="http://www.mymeek.com/2017/2017-05-19.html"/>
+    <id>http://www.mymeek.com/2017/2017-05-19.html</id>
+    <published>2017-05-19T05:01:37.000Z</published>
+    <updated>2017-05-19T03:22:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+Mac 很优秀，优秀到让你重新思考，人生是不是走了弯路
+</blockquote>
+<a id="more"></a>
+<p>Mac 的优秀不仅仅是停留在表面上的，Mac 同样拥有一颗大心脏!</p>
+<p>Mac 的心脏继承于 BSD Unix 内核，BSD 又是操作系统鼻祖 Unix 的嫡系，Mac 内置 sh，bash，ksh、csh、zsh 多种 shell 解释器，原生支持 perl、python、ruby、php、java 等多种主流的编程语言</p>
+<p>软件生态上，很多人对 Mac 的误解停留在软件的稀缺，现在我告诉你，这些都是偏见！说这些话的人可能从来都没有认真使用过 Mac ！他们的话是有失公允的！Mac 上的软件就如同 Mac 本身一样优秀，不仅颜值出众，功夫更是了得，很多专业性很强的工种都是优先考虑使用 Mac 的！Mac 的软件库就像一个大宝藏，精品无数！</p>
+<p>Mac 的多窗口，Mac 的 launchPad，Mac 的 Mission control 配合上 Mac 魔术般的触控板，优雅的快捷键个个都是神兵利器！</p>
+<p>Mac 的优秀同样体现在安全性，电源管理，休眠策略，文件管理，动态内存压缩上！你不再需要安装杀毒软件，不需要纠结C盘该分多大，甚至不需要关机！让 Mac 随时待命！虽然Mac开机也很快，但我们有更优秀的休眠策略，抬手就能完成的事情，何必再多走一步呢，我们都很懒，不是吗 😄</p>
+<p>忘了笔记本电脑那种固有的，糟糕的体验吧！拥有一台 Mac 你会感慨，这 TM 才是笔记本该有的样子！</p>
+<p>人生苦短，生活本该如此美好，诚然有些时候我们会被误导，会走弯路，但这丝毫不影响我们对美的追求</p>
+<p>人生苦短，生活本该如此美好，有些时候你喜欢的东西，你做的事情可能并不那么主流，这又有什么关系呢？有一些自己坚持的事情，会鼓起勇气向这个并不美好主流价值观说不，即使被误解也无所畏惧，守着自己那份美好，用自己的方式爱着这个世界，孤军奋战也要为自己鼓掌！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+Mac 很优秀，优秀到让你重新思考，人生是不是走了弯路
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="随想" scheme="http://www.mymeek.com/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
+    
+      <category term="随笔" scheme="http://www.mymeek.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>结婚这件事</title>
@@ -747,30 +785,6 @@
       <category term="应用推荐" scheme="http://www.mymeek.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
     
       <category term="黑域" scheme="http://www.mymeek.com/tags/%E9%BB%91%E5%9F%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo next 动态背景</title>
-    <link href="http://www.mymeek.com/2017/2017-04-03.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-03.html</id>
-    <published>2017-04-02T21:55:50.000Z</published>
-    <updated>2017-04-07T16:18:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<figure class="highlight plain"><figcaption><span><body> 标签内</body></span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&#123;% if theme.canvas_nest %&#125;</div><div class="line">&lt;script type=&quot;text/javascript&quot;</div><div class="line">color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure>
-<p>color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;body&gt; 标签内&lt;/body&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;
-    
-    </summary>
-    
-      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="测试" scheme="http://www.mymeek.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
