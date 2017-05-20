@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-05-20T01:26:36.000Z</updated>
+  <updated>2017-05-20T01:46:38.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="http://www.mymeek.com/2017/2017-05-19.html"/>
     <id>http://www.mymeek.com/2017/2017-05-19.html</id>
     <published>2017-05-19T05:01:37.000Z</published>
-    <updated>2017-05-20T01:26:36.000Z</updated>
+    <updated>2017-05-20T01:46:38.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">
 Mac 很优秀，优秀到让你重新思考人生，是不是走了很多年的弯路
 </blockquote>
 <a id="more"></a>
 <p>Mac 的优秀不仅仅是停留在表面上的，Mac 同样拥有一颗大心脏!</p>
-<p>Mac 的心脏继承于 BSD Unix 内核，BSD 又是操作系统鼻祖 Unix 的嫡系，Mac 内置 sh，bash，ksh、csh、zsh 多种 shell 解释器，原生支持 perl、python、ruby、php、java 等多种主流的编程语言，以前很复杂的一次环境配置，现在在 Mac 上可能只需要一次复制粘贴和一个回车，Mac 会自动帮你管理依赖，配置环境变量</p>
+<p>Mac 的心脏继承于 BSD Unix 内核，BSD 又是操作系统鼻祖 Unix 的嫡系，Mac 内置 sh，bash，ksh、csh、zsh 多种 shell 解释器，原生支持 perl、python、ruby、php、java 等多种主流的编程语言，以前很复杂的一次环境配置，现在在 Mac 上可能只需要一次复制粘贴和一个回车，Mac 会自动帮你管理依赖，配置环境变量。</p>
 <p>软件生态上，很多人对 Mac 的误解停留在软件的稀缺，现在我告诉你，这些都是偏见！说这些话的人可能从来都没有认真使用过 Mac ！他们的话是有失公允的！Mac 上的软件就如同 Mac 本身一样优秀，不仅颜值出众，功夫更是了得，很多专业性很强的工种都是优先考虑使用 Mac 的！Mac 的软件库就像一个大宝藏，精品无数！</p>
 <p><a href="https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md" target="_blank" rel="external">Mac 软件</a></p>
 <p>Mac 的多窗口，Mac 的 launchPad，Mac 的 Mission control 配合上 Mac 魔术般的触控板，优雅的快捷键个个都是神兵利器！</p>
