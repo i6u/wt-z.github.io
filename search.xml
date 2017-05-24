@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[Visual Studio For Mac 网络异常，无法安装问题]]></title>
+      <url>%2F2017%2F2017-05-24.html</url>
+      <content type="text"><![CDATA[巨硬粑粑推出了 visual studio for mac 版本，虽然没弄过 C#/.Net 那套东西，但是能在 Mac 上搞巨硬粑粑那一套东西还是挺让人期待的，废话不多说，先装一个试试！ 效果图 官网下的是一个安装器，需要联网安装，联网就联网服务器又在墙外！墙外也不怕，我带梯子这都不是事！挂上全局代理还是不行，我还是太年轻，最后拦截请求才发现 https://dc.services.visualstudio.com 这个地址一直请求不到！ MD 这是要闹那样 😑 一阵搜索在微博上找到一个离线安装的版本，万分感谢！ 现在我把离线安装包共享下 先装: MonoFramework-MDK-5.0.0.100.macos10.xamarin.universal.pkg 链接: https://pan.baidu.com/s/1i5C9h9V 密码: i62g 再装: VisualStudioForMac-7.0.0.3146.dmg 链接: https://pan.baidu.com/s/1i4WB57v 密码: px89 👌]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[生命太短暂，要保持好奇心]]></title>
       <url>%2F2017%2F2017-05-23.html</url>
       <content type="text"><![CDATA[我想让生活中充满惊喜！昨天的东西已经过去，明天充满期待，我满怀热情想去知道更多，用我能想到的任何方式去探索未知！留下脚步，带走回忆]]></content>
@@ -157,16 +164,16 @@
 
     
     <entry>
-      <title><![CDATA[hexo next 动态背景]]></title>
-      <url>%2F2017%2F2017-04-03.html</url>
-      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
+      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
+      <url>%2F2017%2F2017-04-03-1.html</url>
+      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
-      <url>%2F2017%2F2017-04-03-1.html</url>
-      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
+      <title><![CDATA[hexo next 动态背景]]></title>
+      <url>%2F2017%2F2017-04-03.html</url>
+      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
     </entry>
 
     

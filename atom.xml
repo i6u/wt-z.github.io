@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-05-23T15:33:50.000Z</updated>
+  <updated>2017-05-24T02:15:12.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -14,6 +14,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Visual Studio For Mac 网络异常，无法安装问题</title>
+    <link href="http://www.mymeek.com/2017/2017-05-24.html"/>
+    <id>http://www.mymeek.com/2017/2017-05-24.html</id>
+    <published>2017-05-24T00:10:37.000Z</published>
+    <updated>2017-05-24T02:15:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>巨硬粑粑推出了 visual studio for mac 版本，虽然没弄过 C#/.Net 那套东西，但是能在 Mac 上搞巨硬粑粑那一套东西还是挺让人期待的，废话不多说，先装一个试试！</p>
+<div class="figure">
+<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1ffw7qfdw4hj31kw0zk1kx.jpg" alt="效果图">
+<p class="caption">效果图</p>
+</div>
+<a id="more"></a>
+<p>官网下的是一个安装器，需要联网安装，联网就联网服务器又在墙外！墙外也不怕，我带梯子这都不是事！挂上全局代理还是不行，我还是太年轻，最后拦截请求才发现 <a href="https://dc.services.visualstudio.com" class="uri" target="_blank" rel="external">https://dc.services.visualstudio.com</a> 这个地址一直请求不到！ MD 这是要闹那样 😑</p>
+<p>一阵搜索在微博上找到一个离线安装的版本，万分感谢！</p>
+<p>现在我把离线安装包共享下</p>
+<p>先装: MonoFramework-MDK-5.0.0.100.macos10.xamarin.universal.pkg</p>
+<p>链接: <a href="https://pan.baidu.com/s/1i5C9h9V" class="uri" target="_blank" rel="external">https://pan.baidu.com/s/1i5C9h9V</a> 密码: i62g</p>
+<p>再装: VisualStudioForMac-7.0.0.3146.dmg</p>
+<p>链接: <a href="https://pan.baidu.com/s/1i4WB57v" class="uri" target="_blank" rel="external">https://pan.baidu.com/s/1i4WB57v</a> 密码: px89</p>
+<p>👌</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;巨硬粑粑推出了 visual studio for mac 版本，虽然没弄过 C#/.Net 那套东西，但是能在 Mac 上搞巨硬粑粑那一套东西还是挺让人期待的，废话不多说，先装一个试试！&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;https://ws2.sinaimg.cn/large/006tKfTcgy1ffw7qfdw4hj31kw0zk1kx.jpg&quot; alt=&quot;效果图&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;效果图&lt;/p&gt;
+&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="Mac App" scheme="http://www.mymeek.com/categories/Mac-App/"/>
+    
+    
+      <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
+    
+      <category term="Microsoft" scheme="http://www.mymeek.com/tags/Microsoft/"/>
+    
+  </entry>
   
   <entry>
     <title>生命太短暂，要保持好奇心</title>
@@ -701,49 +743,6 @@
       <category term="应用推荐" scheme="http://www.mymeek.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
     
       <category term="Mac App" scheme="http://www.mymeek.com/tags/Mac-App/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>仙剑98柔情版</title>
-    <link href="http://www.mymeek.com/2017/2017-04-03-3.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-03-3.html</id>
-    <published>2017-04-03T11:01:50.000Z</published>
-    <updated>2017-04-07T16:20:09.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
-我所有的美好都在回忆里
-</blockquote>
-<a id="more"></a>
-<p>仙剑98柔情版，满满的回忆，Android apk，纯净无广告</p>
-<p>朋友让我帮他下98版的仙剑，打开后全是回忆 &gt; 链接: https://pan.baidu.com/s/1kV2sWg3 密码: 4bvm</p>
-<p>如果链接失效给我留言</p>
-<div class="figure">
-<img src="https://ww4.sinaimg.cn/large/006tKfTcgy1fe9y7fqtfrj31kw16ox6p.jpg">
-
-</div>
-<div class="figure">
-<img src="https://ww1.sinaimg.cn/large/006tKfTcgy1fe9y81gfsmj31kw16ox6p.jpg">
-
-</div>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
-我所有的美好都在回忆里
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Android app" scheme="http://www.mymeek.com/categories/Android-app/"/>
-    
-    
-      <category term="Android App" scheme="http://www.mymeek.com/tags/Android-App/"/>
-    
-      <category term="应用推荐" scheme="http://www.mymeek.com/tags/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
-    
-      <category term="游戏" scheme="http://www.mymeek.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
