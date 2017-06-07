@@ -155,10 +155,11 @@ How you do one thing is how you do everything!
     <link href="http://www.mymeek.com/2017/2017-05-19.html"/>
     <id>http://www.mymeek.com/2017/2017-05-19.html</id>
     <published>2017-05-19T05:01:37.000Z</published>
-    <updated>2017-05-20T01:51:40.000Z</updated>
+    <updated>2017-06-07T17:15:27.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center"><br>Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯路<br></blockquote>
-
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯路
+</blockquote>
 <a id="more"></a>
 <p>Mac 的优秀不仅仅是停留在表面上的，Mac 同样拥有一颗大心脏!</p>
 <p>Mac 的心脏继承于 BSD Unix 内核，BSD 又是操作系统鼻祖 Unix 的嫡系，Mac 内置 sh，bash，ksh、csh、zsh 多种 shell 解释器，原生支持 perl、python、ruby、php、java 等多种主流的编程语言，以前很复杂的一次环境配置，现在在 Mac 上可能只需要一次复制粘贴和一个回车，Mac 会自动帮你管理依赖，配置环境变量。</p>
@@ -174,11 +175,13 @@ How you do one thing is how you do everything!
     
     <summary type="html">
     
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯路&lt;br&gt;&lt;/blockquote&gt;
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯路
+&lt;/blockquote&gt;
     
     </summary>
     
-      <category term="随想" scheme="http://www.mymeek.com/categories/%E9%9A%8F%E6%83%B3/"/>
+      <category term="Mac 随想录" scheme="http://www.mymeek.com/categories/Mac-%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
     
     
       <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
