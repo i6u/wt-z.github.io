@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-06-07T17:13:21.000Z</updated>
+  <updated>2017-06-25T01:46:05.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -16,11 +16,134 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Mac 随想录（开篇）</title>
+    <title>遇到你，我很幸运！</title>
+    <link href="http://www.mymeek.com/2017/2017-06-25.html"/>
+    <id>http://www.mymeek.com/2017/2017-06-25.html</id>
+    <published>2017-06-25T01:05:37.000Z</published>
+    <updated>2017-06-25T01:46:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+人生就是一场无法复制的旅行，我从远方来，走过二十年，在最好的年纪遇到你，接下的日子有你陪伴，我很幸运，我想把我的全世界都交给你，包括我自己
+</blockquote>
+<a id="more"></a>
+<blockquote>
+<p>就像命中注定一样<br>
+彷徨走出学校，走出那个我生活了二十几年的家乡<br>
+来不及好好向朋友道一声珍重<br>
+草草收拾行囊，独自一人来到这个国家的最南边<br>
+想去寻找人生最重要的东西，却不清楚自己想要的是什么<br>
+遇到你之前所有离开的理由都是那么苍白无力<br>
+直到遇见你的那一刻<br>
+我的人生像是被点亮了一座灯塔<br>
+你像阳光像清风，一瞬之间闯入我的生活<br>
+就向冥冥之中天注定那样<br>
+我走在人生最好的年纪<br>
+遇见你</p>
+</blockquote>
+<blockquote>
+<p>老板说要找一个喜欢的人，人生就有了奋斗的目标，我想我找到了，迫不及待想告诉全世界！</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+人生就是一场无法复制的旅行，我从远方来，走过二十年，在最好的年纪遇到你，接下的日子有你陪伴，我很幸运，我想把我的全世界都交给你，包括我自己
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="小句" scheme="http://www.mymeek.com/tags/%E5%B0%8F%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 日常</title>
+    <link href="http://www.mymeek.com/2017/2017-06-20.html"/>
+    <id>http://www.mymeek.com/2017/2017-06-20.html</id>
+    <published>2017-06-20T09:00:37.000Z</published>
+    <updated>2017-06-25T01:42:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+复习查漏补缺，亦可温故知新
+</blockquote>
+<a id="more"></a>
+<p>常用的 Git 命令和一些使用技巧</p>
+<p>初始化 Git 仓库 git init</p>
+<p>拉去远程仓库 git clone 远程仓库地址 ps : 支持 http、https、ssh协议，ssh 最优</p>
+<p>添加文件至 Git 暂存区 git add 文件 ps : 文件可以是多个，或目录简述符号 “.”</p>
+<p>提交暂存区的文件到版本库 git commit -m</p>
+<p>查看本地版本库信息 git log</p>
+<p>查看历史操作记录 git reflog</p>
+<p>从版本库检出最新记录到工作区 git checkout HEAD 文件名</p>
+<p>切换分支 git checkout 分支名</p>
+<p>从版本控制中删除文件 git rm 文件名</p>
+<p>存储当前工作区操作 git stash git stash list git stash pop git stash apply git stash drop</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+复习查漏补缺，亦可温故知新
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://www.mymeek.com/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2. Mac 随想录（ Hello Mac ）</title>
+    <link href="http://www.mymeek.com/2017/2017-06-10.html"/>
+    <id>http://www.mymeek.com/2017/2017-06-10.html</id>
+    <published>2017-06-07T17:00:37.000Z</published>
+    <updated>2017-06-25T01:42:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<!--未完待续-->
+<blockquote class="blockquote-center">
+上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
+</blockquote>
+<a id="more"></a>
+<h1 id="认识-mac">认识 Mac</h1>
+<p>好了能看到这里的，相信你已经拥有了或者打算拥有一台 Mac 让我们从打开包装开始吧！</p>
+<p>2016 之后带 Touch bar 版本的 Mac 默认打开盖子后电脑会自动开机，不要怀疑是不是自己误触了开机键还是被别人用过的机器！这是系统的标定，从第一次打开 Mac 它就在提醒你自己可以随时待命，相比于市面上绝大多数 PC 机不使用时需要关机以及慢悠悠的开机过程，Mac 开盖及用的这种操作很酷！在 Mac 上你不用担心不关机电脑会发烫，会过度损耗电池，现在我可以告诉你担心是多余的，Mac 有着优秀的休眠策略和电源管理技术，即使你把电脑不关机放上好几天，下次打开时它照样精力充沛。</p>
+<p>好了，现在应该到了初始化设置的界面，一般都是选择语言和设置键盘，连接 WiFi 设置锁屏密码等选项，不用着急，跟着指示走，相信这难不倒你。其中需要强调的是 Apple ID 很重要！！！如果你用过 Apple 其他设备，如果你以前不太重视保护自己的 Apple ID， 那么从现在开始一定要牢记自己的 Apple ID！密码最好复杂一点，自己比较健忘的话，最好记在其他地方，或者使用密码管理软件（1Password是个不错的选择，以后我会抽时间推荐一些 Mac 上优秀的 App ）还有就是打开两步验证，为什么要这么重视 Apple ID 呢？应为 Apple ID 就相当于 Apple 给你发的身份证！你使用 Apple 产品的时时刻刻都需要这个 ID 这是 Apple 生态里最重要的东西，不仅仅是一个验证，更是链接所有 Apple 产品的枢纽，如果你有很多 Apple 的产品，你会惊讶这带来的便利，如果自己的 Apple ID 落在了坏人手里，他就可以利用这个远程锁定你的设备，进行勒索，窃取你同步到 iCloud 的资料等，这样会很棘手！所有为了不让自己陷入窘境，还是提早防范，不要抱侥幸心理！</p>
+<p>一切设置妥了之后，进入正题！</p>
+<p>没什么意外的话，你看到的应该是下面这个样子</p>
+<p>你经常打交道的东西</p>
+<p>Finder</p>
+<p>Dock</p>
+<p>Desktop</p>
+<p>Mission Control</p>
+<p>LaunchPad</p>
+<p>space</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;!--未完待续--&gt;
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;
+上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Mac 随想录" scheme="http://www.mymeek.com/categories/Mac-%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    
+    
+      <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1. Mac 随想录（开篇）</title>
     <link href="http://www.mymeek.com/2017/2017-06-02.html"/>
     <id>http://www.mymeek.com/2017/2017-06-02.html</id>
     <published>2017-06-07T17:00:37.000Z</published>
-    <updated>2017-06-07T17:13:21.000Z</updated>
+    <updated>2017-06-10T15:51:37.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">
 人不能太懒，太懒会变成胖子 😄
@@ -626,119 +749,6 @@ Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯�
     
       <category term="随笔" scheme="http://www.mymeek.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>整理整理</title>
-    <link href="http://www.mymeek.com/2017/2017-04-07-2.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-07-2.html</id>
-    <published>2017-04-07T14:01:15.000Z</published>
-    <updated>2017-04-10T06:11:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
-当你对生活不屑一顾，别人却用自律把你杀得片甲不留
-</blockquote>
-<a id="more"></a>
-<div class="note "><p>打心里喜欢整整齐齐的环境，虽然每过一段时间都会把身边弄得有点不堪，但想到的时候，还是习惯重新整理一遍，毕竟心里喜欢整整齐齐 😊 </p>
-<p>可能整理房间，可能整理衣服，可能整理时间，可能整理心情，今天整理 标签&amp;分类 😄</p>
-<p>防止自己以后乱打标签</p>
-<p>这不完全，想起来再补充说明…</p>
-<p><strong>categories</strong></p>
-<ul>
-<li>学习：</li>
-<li>分享：</li>
-<li>博客：</li>
-<li>小句：</li>
-<li>随想：</li>
-<li>应用：</li>
-</ul>
-<p><strong>tags:</strong></p>
-<ul>
-<li>Android</li>
-<li>Java</li>
-<li><del>框架</del></li>
-<li>Mac app</li>
-<li>Android app</li>
-<li>iOS app</li>
-</ul>
-</div>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">---</div><div class="line">title:</div><div class="line">date: 2017-04-04 19:56:50</div><div class="line">tags: [tag1,tag2,tag3]</div><div class="line">categories: </div><div class="line">description: </div><div class="line">---</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
-当你对生活不屑一顾，别人却用自律把你杀得片甲不留
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>梦想一定要大，脚步一定要稳</title>
-    <link href="http://www.mymeek.com/2017/2017-04-07.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-07.html</id>
-    <published>2017-04-06T16:05:15.000Z</published>
-    <updated>2017-04-07T16:20:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
-为什么我们老是想着去做和别人不一样的东西，却很少想着去把别人在做的东西做的更好？
-</blockquote>
-<a id="more"></a>
-<div class="note "><p>大概是做别人没有做过的东西，更容易博人眼球吧！但是做事情被人关注就一定是好事吗？</p>
-<p>做设计需要想象力，做产品未必。</p>
-<p>能把别人做的东西做的更好，比起去造一个新的概念更能让情怀落地，物质的存在是要被主流价值认可的，并不是靠吹牛逼死撑的，优秀的东西是可以沉淀下来的，是经得起时间考验的，并不想那些概念，想梦一样，醒了什么都没了。</p>
-<p>我们需要做梦，需要想象力，但不能盲目</p>
-</div>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
-为什么我们老是想着去做和别人不一样的东西，却很少想着去把别人在做的东西做的更好？
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="一点思考" scheme="http://www.mymeek.com/categories/%E4%B8%80%E7%82%B9%E6%80%9D%E8%80%83/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>从模糊的记忆里找到想要的东西</title>
-    <link href="http://www.mymeek.com/2017/%E4%BB%8E%E6%A8%A1%E7%B3%8A%E7%9A%84%E8%AE%B0%E5%BF%86%E9%87%8C%E6%89%BE%E5%88%B0%E6%83%B3%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF.html"/>
-    <id>http://www.mymeek.com/2017/从模糊的记忆里找到想要的东西.html</id>
-    <published>2017-04-05T05:30:04.000Z</published>
-    <updated>2017-04-05T10:55:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
-重要的东西我们从来不会忘记，只是把它藏起来了而已
-</blockquote>
-<p><img src="https://ww4.sinaimg.cn/large/006tKfTcly1febr4c2ya7j30go05kgnb.jpg"> <a id="more"></a> <div class="note "><p>有没有那么一次<br>要从模糊的记忆里找一件已经忘了很久的东西<br>以前你明明很清楚的记得它的名字它的样子<br>可是过了那么久，还是忘了<br>你甚至不知道什么时候忘的<br>然后使劲的想<br>不放过任何蛛丝马迹，去找一切与它相关的东西<br>只要有一点线索<br>纵使记忆再模糊<br>你也能从一大堆杂乱无章的东西中一眼认出它来</p>
-<p>一瞬间<br>所有的记忆都回来了</p>
-<p>这感觉真好</p>
-</div></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
-重要的东西我们从来不会忘记，只是把它藏起来了而已
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;https://ww4.sinaimg.cn/large/006tKfTcly1febr4c2ya7j30go05kgnb.jpg&quot; /&gt;
-    
-    </summary>
-    
-      <category term="小句" scheme="http://www.mymeek.com/categories/%E5%B0%8F%E5%8F%A5/"/>
-    
-    
-      <category term="记忆" scheme="http://www.mymeek.com/tags/%E8%AE%B0%E5%BF%86/"/>
     
   </entry>
   
