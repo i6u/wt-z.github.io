@@ -3,13 +3,6 @@
   
     
     <entry>
-      <title><![CDATA[遇到你，我很幸运！]]></title>
-      <url>%2F2017%2F2017-06-25.html</url>
-      <content type="text"><![CDATA[人生就是一场无法复制的旅行，我从远方来，走过二十年，在最好的年纪遇到你，接下的日子有你陪伴，我很幸运，我想把我的全世界都交给你，包括我自己 就像命中注定一样 彷徨走出学校，走出那个我生活了二十几年的家乡 来不及好好向朋友道一声珍重 草草收拾行囊，独自一人来到这个国家的最南边 想去寻找人生最重要的东西，却不清楚自己想要的是什么 遇到你之前所有离开的理由都是那么苍白无力 直到遇见你的那一刻 我的人生像是被点亮了一座灯塔 你像阳光像清风，一瞬之间闯入我的生活 就向冥冥之中天注定那样 我走在人生最好的年纪 遇见你 老板说要找一个喜欢的人，人生就有了奋斗的目标，我想我找到了，迫不及待想告诉全世界！]]></content>
-    </entry>
-
-    
-    <entry>
       <title><![CDATA[Git 日常]]></title>
       <url>%2F2017%2F2017-06-20.html</url>
       <content type="text"><![CDATA[复习查漏补缺，亦可温故知新 常用的 Git 命令和一些使用技巧 初始化 Git 仓库 git init 拉去远程仓库 git clone 远程仓库地址 ps : 支持 http、https、ssh协议，ssh 最优 添加文件至 Git 暂存区 git add 文件 ps : 文件可以是多个，或目录简述符号 “.” 提交暂存区的文件到版本库 git commit -m 查看本地版本库信息 git log 查看历史操作记录 git reflog 从版本库检出最新记录到工作区 git checkout HEAD 文件名 切换分支 git checkout 分支名 从版本控制中删除文件 git rm 文件名 存储当前工作区操作 git stash git stash list git stash pop git stash apply git stash drop]]></content>
@@ -199,16 +192,16 @@
 
     
     <entry>
-      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
-      <url>%2F2017%2F2017-04-03-1.html</url>
-      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
+      <title><![CDATA[hexo next 动态背景]]></title>
+      <url>%2F2017%2F2017-04-03.html</url>
+      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[hexo next 动态背景]]></title>
-      <url>%2F2017%2F2017-04-03.html</url>
-      <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
+      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
+      <url>%2F2017%2F2017-04-03-1.html</url>
+      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
     </entry>
 
     

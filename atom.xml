@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-06-25T01:46:05.000Z</updated>
+  <updated>2017-06-25T01:42:09.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -14,49 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>遇到你，我很幸运！</title>
-    <link href="http://www.mymeek.com/2017/2017-06-25.html"/>
-    <id>http://www.mymeek.com/2017/2017-06-25.html</id>
-    <published>2017-06-25T01:05:37.000Z</published>
-    <updated>2017-06-25T01:46:05.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
-人生就是一场无法复制的旅行，我从远方来，走过二十年，在最好的年纪遇到你，接下的日子有你陪伴，我很幸运，我想把我的全世界都交给你，包括我自己
-</blockquote>
-<a id="more"></a>
-<blockquote>
-<p>就像命中注定一样<br>
-彷徨走出学校，走出那个我生活了二十几年的家乡<br>
-来不及好好向朋友道一声珍重<br>
-草草收拾行囊，独自一人来到这个国家的最南边<br>
-想去寻找人生最重要的东西，却不清楚自己想要的是什么<br>
-遇到你之前所有离开的理由都是那么苍白无力<br>
-直到遇见你的那一刻<br>
-我的人生像是被点亮了一座灯塔<br>
-你像阳光像清风，一瞬之间闯入我的生活<br>
-就向冥冥之中天注定那样<br>
-我走在人生最好的年纪<br>
-遇见你</p>
-</blockquote>
-<blockquote>
-<p>老板说要找一个喜欢的人，人生就有了奋斗的目标，我想我找到了，迫不及待想告诉全世界！</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
-人生就是一场无法复制的旅行，我从远方来，走过二十年，在最好的年纪遇到你，接下的日子有你陪伴，我很幸运，我想把我的全世界都交给你，包括我自己
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="小句" scheme="http://www.mymeek.com/tags/%E5%B0%8F%E5%8F%A5/"/>
-    
-  </entry>
   
   <entry>
     <title>Git 日常</title>
@@ -748,6 +705,56 @@ Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯�
     </summary>
     
       <category term="随笔" scheme="http://www.mymeek.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>整理整理</title>
+    <link href="http://www.mymeek.com/2017/2017-04-07-2.html"/>
+    <id>http://www.mymeek.com/2017/2017-04-07-2.html</id>
+    <published>2017-04-07T14:01:15.000Z</published>
+    <updated>2017-04-10T06:11:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+当你对生活不屑一顾，别人却用自律把你杀得片甲不留
+</blockquote>
+<a id="more"></a>
+<div class="note "><p>打心里喜欢整整齐齐的环境，虽然每过一段时间都会把身边弄得有点不堪，但想到的时候，还是习惯重新整理一遍，毕竟心里喜欢整整齐齐 😊 </p>
+<p>可能整理房间，可能整理衣服，可能整理时间，可能整理心情，今天整理 标签&amp;分类 😄</p>
+<p>防止自己以后乱打标签</p>
+<p>这不完全，想起来再补充说明…</p>
+<p><strong>categories</strong></p>
+<ul>
+<li>学习：</li>
+<li>分享：</li>
+<li>博客：</li>
+<li>小句：</li>
+<li>随想：</li>
+<li>应用：</li>
+</ul>
+<p><strong>tags:</strong></p>
+<ul>
+<li>Android</li>
+<li>Java</li>
+<li><del>框架</del></li>
+<li>Mac app</li>
+<li>Android app</li>
+<li>iOS app</li>
+</ul>
+</div>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">---</div><div class="line">title:</div><div class="line">date: 2017-04-04 19:56:50</div><div class="line">tags: [tag1,tag2,tag3]</div><div class="line">categories: </div><div class="line">description: </div><div class="line">---</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+当你对生活不屑一顾，别人却用自律把你杀得片甲不留
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="博客" scheme="http://www.mymeek.com/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
   </entry>
