@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-06-28T17:11:24.000Z</updated>
+  <updated>2017-06-28T17:13:10.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.mymeek.com/2017/2017-06-29.html"/>
     <id>http://www.mymeek.com/2017/2017-06-29.html</id>
     <published>2017-06-28T11:00:37.000Z</published>
-    <updated>2017-06-28T17:11:24.000Z</updated>
+    <updated>2017-06-28T17:13:10.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>从前有一个男孩，为了不在一个地方浑浑噩噩的过着自己的人生，一个人离开了他生活了二十多年的地方，来到一个对他来说完全陌生的城市，干净的空气，热情的人，这一切陌生又美好。</p>
@@ -146,6 +146,8 @@
     
     </summary>
     
+    
+      <category term="故事" scheme="http://www.mymeek.com/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
   
