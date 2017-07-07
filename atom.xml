@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-07-02T00:56:37.000Z</updated>
+  <updated>2017-07-07T18:01:32.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -16,22 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一份情书</title>
+    <link href="http://www.mymeek.com/2017/2017-07-08.html"/>
+    <id>http://www.mymeek.com/2017/2017-07-08.html</id>
+    <published>2017-07-07T16:55:37.000Z</published>
+    <updated>2017-07-07T18:01:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center">
+人生太短，只够爱一个人
+</blockquote>
+<a id="more"></a>
+<div class="note default"><p>想对你说尽所有的情话<br>勇气却输给腼腆<br>想和你多待一会<br>又怕被爱变成配合表演<br>你有时太忙，我却刻意打扰  </p>
+<p>想分担你的忙碌，又怕给你添乱<br>想风雨给你怀抱，又怕束缚你的自由<br>如果可以安静的陪着你<br>多好  </p>
+<p>路过你的每一天<br>你在楼上我在楼下<br>你离得好近又好远<br>人生太短<br>多想抓住一分一秒  </p>
+<p>相遇是种恩赐<br>相守是份承诺<br>陪伴是最好的表白<br>我想用一生陪你  </p>
+</div>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+人生太短，只够爱一个人
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="故事" scheme="http://www.mymeek.com/tags/%E6%95%85%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>共勉</title>
     <link href="http://www.mymeek.com/2017/2017-07-02.html"/>
     <id>http://www.mymeek.com/2017/2017-07-02.html</id>
     <published>2017-07-02T00:40:37.000Z</published>
     <updated>2017-07-02T00:56:37.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">Stay Hungry. Stay Foolish.</blockquote>
-
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+Stay Hungry. Stay Foolish.
+</blockquote>
 <a id="more"></a>
-<p>&emsp;&emsp;周五和老板聊了好多，谈到技术，谈到发展，谈到对我的期望，感谢老板对一个新人的信任，乔老爷子一句话 “保持饥饿，保持愚蠢” 共勉。</p>
+<p>  周五和老板聊了好多，谈到技术，谈到发展，谈到对我的期望，感谢老板对一个新人的信任，乔老爷子一句话 “保持饥饿，保持愚蠢” 共勉。</p>
 <p>当然，感谢老板给我涨工资 😄</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;Stay Hungry. Stay Foolish.&lt;/blockquote&gt;
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
+Stay Hungry. Stay Foolish.
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -47,7 +81,7 @@
     <published>2017-06-28T11:00:37.000Z</published>
     <updated>2017-06-30T01:22:26.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center">
 相遇就是一场意外，很高兴遇到你
 </blockquote>
 <a id="more"></a>
@@ -149,7 +183,7 @@
     <published>2017-06-20T09:00:37.000Z</published>
     <updated>2017-06-25T01:42:09.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center">
 复习查漏补缺，亦可温故知新
 </blockquote>
 <a id="more"></a>
@@ -180,56 +214,13 @@
   </entry>
   
   <entry>
-    <title>2. Mac 随想录（ Hello Mac ）</title>
-    <link href="http://www.mymeek.com/2017/2017-06-10.html"/>
-    <id>http://www.mymeek.com/2017/2017-06-10.html</id>
-    <published>2017-06-07T17:00:37.000Z</published>
-    <updated>2017-06-25T01:42:19.000Z</updated>
-    
-    <content type="html"><![CDATA[<!--未完待续-->
-<blockquote class="blockquote-center">
-上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
-</blockquote>
-<a id="more"></a>
-<h1 id="认识-mac">认识 Mac</h1>
-<p>好了能看到这里的，相信你已经拥有了或者打算拥有一台 Mac 让我们从打开包装开始吧！</p>
-<p>2016 之后带 Touch bar 版本的 Mac 默认打开盖子后电脑会自动开机，不要怀疑是不是自己误触了开机键还是被别人用过的机器！这是系统的标定，从第一次打开 Mac 它就在提醒你自己可以随时待命，相比于市面上绝大多数 PC 机不使用时需要关机以及慢悠悠的开机过程，Mac 开盖及用的这种操作很酷！在 Mac 上你不用担心不关机电脑会发烫，会过度损耗电池，现在我可以告诉你担心是多余的，Mac 有着优秀的休眠策略和电源管理技术，即使你把电脑不关机放上好几天，下次打开时它照样精力充沛。</p>
-<p>好了，现在应该到了初始化设置的界面，一般都是选择语言和设置键盘，连接 WiFi 设置锁屏密码等选项，不用着急，跟着指示走，相信这难不倒你。其中需要强调的是 Apple ID 很重要！！！如果你用过 Apple 其他设备，如果你以前不太重视保护自己的 Apple ID， 那么从现在开始一定要牢记自己的 Apple ID！密码最好复杂一点，自己比较健忘的话，最好记在其他地方，或者使用密码管理软件（1Password是个不错的选择，以后我会抽时间推荐一些 Mac 上优秀的 App ）还有就是打开两步验证，为什么要这么重视 Apple ID 呢？应为 Apple ID 就相当于 Apple 给你发的身份证！你使用 Apple 产品的时时刻刻都需要这个 ID 这是 Apple 生态里最重要的东西，不仅仅是一个验证，更是链接所有 Apple 产品的枢纽，如果你有很多 Apple 的产品，你会惊讶这带来的便利，如果自己的 Apple ID 落在了坏人手里，他就可以利用这个远程锁定你的设备，进行勒索，窃取你同步到 iCloud 的资料等，这样会很棘手！所有为了不让自己陷入窘境，还是提早防范，不要抱侥幸心理！</p>
-<p>一切设置妥了之后，进入正题！</p>
-<p>没什么意外的话，你看到的应该是下面这个样子</p>
-<p>你经常打交道的东西</p>
-<p>Finder</p>
-<p>Dock</p>
-<p>Desktop</p>
-<p>Mission Control</p>
-<p>LaunchPad</p>
-<p>space</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;!--未完待续--&gt;
-&lt;blockquote class=&quot;blockquote-center&quot;&gt;
-上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Mac 随想录" scheme="http://www.mymeek.com/categories/Mac-%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
-    
-    
-      <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
-    
-  </entry>
-  
-  <entry>
     <title>1. Mac 随想录（开篇）</title>
     <link href="http://www.mymeek.com/2017/2017-06-02.html"/>
     <id>http://www.mymeek.com/2017/2017-06-02.html</id>
     <published>2017-06-07T17:00:37.000Z</published>
     <updated>2017-06-10T15:51:37.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center">
 人不能太懒，太懒会变成胖子 😄
 </blockquote>
 <a id="more"></a>
@@ -254,6 +245,49 @@
     
       &lt;blockquote class=&quot;blockquote-center&quot;&gt;
 人不能太懒，太懒会变成胖子 😄
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Mac 随想录" scheme="http://www.mymeek.com/categories/Mac-%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    
+    
+      <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2. Mac 随想录（ Hello Mac ）</title>
+    <link href="http://www.mymeek.com/2017/2017-06-10.html"/>
+    <id>http://www.mymeek.com/2017/2017-06-10.html</id>
+    <published>2017-06-07T17:00:37.000Z</published>
+    <updated>2017-06-25T01:42:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><!--未完待续-->
+<blockquote class="blockquote-center">
+上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
+</blockquote>
+<a id="more"></a>
+<h1 id="认识-mac">认识 Mac</h1>
+<p>好了能看到这里的，相信你已经拥有了或者打算拥有一台 Mac 让我们从打开包装开始吧！</p>
+<p>2016 之后带 Touch bar 版本的 Mac 默认打开盖子后电脑会自动开机，不要怀疑是不是自己误触了开机键还是被别人用过的机器！这是系统的标定，从第一次打开 Mac 它就在提醒你自己可以随时待命，相比于市面上绝大多数 PC 机不使用时需要关机以及慢悠悠的开机过程，Mac 开盖及用的这种操作很酷！在 Mac 上你不用担心不关机电脑会发烫，会过度损耗电池，现在我可以告诉你担心是多余的，Mac 有着优秀的休眠策略和电源管理技术，即使你把电脑不关机放上好几天，下次打开时它照样精力充沛。</p>
+<p>好了，现在应该到了初始化设置的界面，一般都是选择语言和设置键盘，连接 WiFi 设置锁屏密码等选项，不用着急，跟着指示走，相信这难不倒你。其中需要强调的是 Apple ID 很重要！！！如果你用过 Apple 其他设备，如果你以前不太重视保护自己的 Apple ID， 那么从现在开始一定要牢记自己的 Apple ID！密码最好复杂一点，自己比较健忘的话，最好记在其他地方，或者使用密码管理软件（1Password是个不错的选择，以后我会抽时间推荐一些 Mac 上优秀的 App ）还有就是打开两步验证，为什么要这么重视 Apple ID 呢？应为 Apple ID 就相当于 Apple 给你发的身份证！你使用 Apple 产品的时时刻刻都需要这个 ID 这是 Apple 生态里最重要的东西，不仅仅是一个验证，更是链接所有 Apple 产品的枢纽，如果你有很多 Apple 的产品，你会惊讶这带来的便利，如果自己的 Apple ID 落在了坏人手里，他就可以利用这个远程锁定你的设备，进行勒索，窃取你同步到 iCloud 的资料等，这样会很棘手！所有为了不让自己陷入窘境，还是提早防范，不要抱侥幸心理！</p>
+<p>一切设置妥了之后，进入正题！</p>
+<p>没什么意外的话，你看到的应该是下面这个样子</p>
+<p>你经常打交道的东西</p>
+<p>Finder</p>
+<p>Dock</p>
+<p>Desktop</p>
+<p>Mission Control</p>
+<p>LaunchPad</p>
+<p>space</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;!--未完待续--&gt;
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;
+上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
 &lt;/blockquote&gt;
     
     </summary>
@@ -441,20 +475,23 @@ Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯�
     <published>2017-04-29T06:53:37.000Z</published>
     <updated>2017-04-29T07:21:01.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p> <strong>Java 关键字 synchronized </strong></p>
-<p>用来确保<strong><code>同一个对象</code></strong>中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问<br><a id="more"></a></p>
-<ol>
+    <content type="html"><![CDATA[<h2 id="介绍">介绍</h2>
+<p><strong>Java 关键字 synchronized </strong></p>
+<p>用来确保<strong><code>同一个对象</code></strong>中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问 <a id="more"></a></p>
+<ol style="list-style-type: decimal">
 <li>同一个对象中使用 synchronized 修饰的代码，同一时间只允许一个线程访问，其他线程必须等待前一个线程执行完此方法后才能访问这段代码</li>
 <li>当有线程正在访问一个对象中使用 synchronized 修饰的代码，其他线程对这个对象中没有被 synchronized 修饰的代码访问不受影响</li>
 <li>同一个对象中，如果有多段被 synchronized 修饰的代码，当其中一段被修饰的代码被一个线程访问时，其他被修饰的代码不能被其他线程访问，即 synchronized 是一个对象锁</li>
 </ol>
-<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p> <a href="http://blog.csdn.net/xiao__gui/article/details/8188833" target="_blank" rel="external">http://blog.csdn.net/xiao__gui/article/details/8188833</a><br><a href="http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html" target="_blank" rel="external">http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html</a></p>
+<h2 id="参考">参考</h2>
+<p><a href="http://blog.csdn.net/xiao__gui/article/details/8188833" class="uri" target="_blank" rel="external">http://blog.csdn.net/xiao__gui/article/details/8188833</a> <a href="http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html" class="uri" target="_blank" rel="external">http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt; &lt;strong&gt;Java 关键字 synchronized &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;用来确保&lt;strong&gt;&lt;code&gt;同一个对象&lt;/code&gt;&lt;/strong&gt;中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问&lt;br&gt;
+      &lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Java 关键字 synchronized &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;用来确保&lt;strong&gt;&lt;code&gt;同一个对象&lt;/code&gt;&lt;/strong&gt;中被 synchronized 修饰的代码（方法或代码块）同一时间内只能被一个线程访问
     
     </summary>
     
@@ -659,7 +696,7 @@ Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯�
     <published>2017-04-09T14:31:37.000Z</published>
     <updated>2017-04-10T01:00:22.000Z</updated>
     
-    <content type="html"><![CDATA[<p>线程是进程的子集</p>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>线程是进程的子集</p>
 <a id="more"></a>
 <h2 id="进程">进程</h2>
 <h3 id="进程的提出">进程的提出：</h3>
@@ -755,38 +792,6 @@ Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯�
     
     
       <category term="计算操作系统" scheme="http://www.mymeek.com/tags/%E8%AE%A1%E7%AE%97%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>来深圳一个月，今天我去了趟东门老街</title>
-    <link href="http://www.mymeek.com/2017/2017-04-08.html"/>
-    <id>http://www.mymeek.com/2017/2017-04-08.html</id>
-    <published>2017-04-08T15:11:15.000Z</published>
-    <updated>2017-04-08T16:01:49.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>  总感觉整个博客没有组织好，又不知道怎么能弄好，慢慢走一步填一个坑吧，刚开始，只要不停下来，相信有一天能做好！</p>
-<p>  周五一放假，基本周六都起不来，晃晃悠悠一天就没了，今天例外，早上九点想来，收拾了一下，十一点在楼下吃了早饭+午饭，然后背起我的所有家当，去了趟东门老街，去找找这个城市的历史 😄</p>
-<a id="more"></a>
-<p>  每到一个新的地方，总喜欢去翻翻他的历史，看看他的过去，深圳也不例外，刚来就在网上找了很多关于深圳的信息，从宝安县到深圳经济特区，关内关外，1979，改革前后，大逃港。。。文字看多了总想着亲自去老街走走，这不昨天刚发工资，今天就放假 😄 天时地利一个我 🙂 说走就走 😅</p>
-<p>  从交通局出发，先去了假日广场 Apple Store，换乘地铁直达东门老街，下了地铁定了位置开着导航，像个本地人一样，哼着小曲听着龙哥的声音就冲着目的地去了！一路上，人很多，地不干净，新的搂在盖，旧的楼依然在，一切像是被定格在了过去的某个年代，楼盖了一栋又一栋，人换了一波又一波，老街的痕迹还在，我把手放在老树上，像是一个问候，深圳，你好，我来了！</p>
-<div class="figure">
-<img src="https://ww2.sinaimg.cn/large/006tNbRwly1fefp3rnuzkj31kw1zhe83.jpg">
-
-</div>
-<p>  走过老街，马不停蹄的就去了文锦口岸，想去看看边境，看看30度年前那个无数人向往的地方，那些逃出大陆的人现在都在哪里？想着有机会能有个长着望着远方，讲自己的故事，讲那个动荡的年代，自己的斗争与奋斗，想听听他们用血和泪书写的香港精神。苦难的过去，他们流着的血和泪走过，和平的现在，他们回忆过去的苦难</p>
-<p>  嗯，走过的苦难刻骨铭心，奋斗的日子让人怀念。未来我会在这个城市生活，现在我要了解下这个城市的过去</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;  总感觉整个博客没有组织好，又不知道怎么能弄好，慢慢走一步填一个坑吧，刚开始，只要不停下来，相信有一天能做好！&lt;/p&gt;
-&lt;p&gt;  周五一放假，基本周六都起不来，晃晃悠悠一天就没了，今天例外，早上九点想来，收拾了一下，十一点在楼下吃了早饭+午饭，然后背起我的所有家当，去了趟东门老街，去找找这个城市的历史 😄&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://www.mymeek.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
     
   </entry>
   
