@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-09-03T04:46:24.000Z</updated>
+  <updated>2017-09-03T05:08:22.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Mac 应用推荐：Contexts 后台任务切换</title>
+    <title>【Mac 应用推荐】Contexts 后台任务切换</title>
     <link href="http://www.mymeek.com/2017/2017-09-03.html"/>
     <id>http://www.mymeek.com/2017/2017-09-03.html</id>
     <published>2017-09-03T04:35:37.000Z</published>
-    <updated>2017-09-03T04:46:24.000Z</updated>
+    <updated>2017-09-03T05:08:22.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h3 id="contexts"><a href="https://contexts.co/" target="_blank" rel="external">Contexts</a></h3>
 <p>Mac 上强大的任务切换工具，好用到哭</p>
@@ -245,49 +245,6 @@ Stay Hungry. Stay Foolish.
   </entry>
   
   <entry>
-    <title>2. Mac 随想录（ Hello Mac ）</title>
-    <link href="http://www.mymeek.com/2017/2017-06-10.html"/>
-    <id>http://www.mymeek.com/2017/2017-06-10.html</id>
-    <published>2017-06-07T17:00:37.000Z</published>
-    <updated>2017-06-25T01:42:19.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><!--未完待续-->
-<blockquote class="blockquote-center">
-上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
-</blockquote>
-<a id="more"></a>
-<h1 id="认识-mac">认识 Mac</h1>
-<p>好了能看到这里的，相信你已经拥有了或者打算拥有一台 Mac 让我们从打开包装开始吧！</p>
-<p>2016 之后带 Touch bar 版本的 Mac 默认打开盖子后电脑会自动开机，不要怀疑是不是自己误触了开机键还是被别人用过的机器！这是系统的标定，从第一次打开 Mac 它就在提醒你自己可以随时待命，相比于市面上绝大多数 PC 机不使用时需要关机以及慢悠悠的开机过程，Mac 开盖及用的这种操作很酷！在 Mac 上你不用担心不关机电脑会发烫，会过度损耗电池，现在我可以告诉你担心是多余的，Mac 有着优秀的休眠策略和电源管理技术，即使你把电脑不关机放上好几天，下次打开时它照样精力充沛。</p>
-<p>好了，现在应该到了初始化设置的界面，一般都是选择语言和设置键盘，连接 WiFi 设置锁屏密码等选项，不用着急，跟着指示走，相信这难不倒你。其中需要强调的是 Apple ID 很重要！！！如果你用过 Apple 其他设备，如果你以前不太重视保护自己的 Apple ID， 那么从现在开始一定要牢记自己的 Apple ID！密码最好复杂一点，自己比较健忘的话，最好记在其他地方，或者使用密码管理软件（1Password是个不错的选择，以后我会抽时间推荐一些 Mac 上优秀的 App ）还有就是打开两步验证，为什么要这么重视 Apple ID 呢？应为 Apple ID 就相当于 Apple 给你发的身份证！你使用 Apple 产品的时时刻刻都需要这个 ID 这是 Apple 生态里最重要的东西，不仅仅是一个验证，更是链接所有 Apple 产品的枢纽，如果你有很多 Apple 的产品，你会惊讶这带来的便利，如果自己的 Apple ID 落在了坏人手里，他就可以利用这个远程锁定你的设备，进行勒索，窃取你同步到 iCloud 的资料等，这样会很棘手！所有为了不让自己陷入窘境，还是提早防范，不要抱侥幸心理！</p>
-<p>一切设置妥了之后，进入正题！</p>
-<p>没什么意外的话，你看到的应该是下面这个样子</p>
-<p>你经常打交道的东西</p>
-<p>Finder</p>
-<p>Dock</p>
-<p>Desktop</p>
-<p>Mission Control</p>
-<p>LaunchPad</p>
-<p>space</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;!--未完待续--&gt;
-&lt;blockquote class=&quot;blockquote-center&quot;&gt;
-上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Mac 随想录" scheme="http://www.mymeek.com/categories/Mac-%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
-    
-    
-      <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
-    
-  </entry>
-  
-  <entry>
     <title>1. Mac 随想录（开篇）</title>
     <link href="http://www.mymeek.com/2017/2017-06-02.html"/>
     <id>http://www.mymeek.com/2017/2017-06-02.html</id>
@@ -319,6 +276,49 @@ Stay Hungry. Stay Foolish.
     
       &lt;blockquote class=&quot;blockquote-center&quot;&gt;
 人不能太懒，太懒会变成胖子 😄
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Mac 随想录" scheme="http://www.mymeek.com/categories/Mac-%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    
+    
+      <category term="Mac" scheme="http://www.mymeek.com/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2. Mac 随想录（ Hello Mac ）</title>
+    <link href="http://www.mymeek.com/2017/2017-06-10.html"/>
+    <id>http://www.mymeek.com/2017/2017-06-10.html</id>
+    <published>2017-06-07T17:00:37.000Z</published>
+    <updated>2017-06-25T01:42:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><!--未完待续-->
+<blockquote class="blockquote-center">
+上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
+</blockquote>
+<a id="more"></a>
+<h1 id="认识-mac">认识 Mac</h1>
+<p>好了能看到这里的，相信你已经拥有了或者打算拥有一台 Mac 让我们从打开包装开始吧！</p>
+<p>2016 之后带 Touch bar 版本的 Mac 默认打开盖子后电脑会自动开机，不要怀疑是不是自己误触了开机键还是被别人用过的机器！这是系统的标定，从第一次打开 Mac 它就在提醒你自己可以随时待命，相比于市面上绝大多数 PC 机不使用时需要关机以及慢悠悠的开机过程，Mac 开盖及用的这种操作很酷！在 Mac 上你不用担心不关机电脑会发烫，会过度损耗电池，现在我可以告诉你担心是多余的，Mac 有着优秀的休眠策略和电源管理技术，即使你把电脑不关机放上好几天，下次打开时它照样精力充沛。</p>
+<p>好了，现在应该到了初始化设置的界面，一般都是选择语言和设置键盘，连接 WiFi 设置锁屏密码等选项，不用着急，跟着指示走，相信这难不倒你。其中需要强调的是 Apple ID 很重要！！！如果你用过 Apple 其他设备，如果你以前不太重视保护自己的 Apple ID， 那么从现在开始一定要牢记自己的 Apple ID！密码最好复杂一点，自己比较健忘的话，最好记在其他地方，或者使用密码管理软件（1Password是个不错的选择，以后我会抽时间推荐一些 Mac 上优秀的 App ）还有就是打开两步验证，为什么要这么重视 Apple ID 呢？应为 Apple ID 就相当于 Apple 给你发的身份证！你使用 Apple 产品的时时刻刻都需要这个 ID 这是 Apple 生态里最重要的东西，不仅仅是一个验证，更是链接所有 Apple 产品的枢纽，如果你有很多 Apple 的产品，你会惊讶这带来的便利，如果自己的 Apple ID 落在了坏人手里，他就可以利用这个远程锁定你的设备，进行勒索，窃取你同步到 iCloud 的资料等，这样会很棘手！所有为了不让自己陷入窘境，还是提早防范，不要抱侥幸心理！</p>
+<p>一切设置妥了之后，进入正题！</p>
+<p>没什么意外的话，你看到的应该是下面这个样子</p>
+<p>你经常打交道的东西</p>
+<p>Finder</p>
+<p>Dock</p>
+<p>Desktop</p>
+<p>Mission Control</p>
+<p>LaunchPad</p>
+<p>space</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;!--未完待续--&gt;
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;
+上一篇有的没的瞎扯了一些东西，最后终于把名字定下来了，从这一篇起我开始正式介绍我所认识的 Mac！并开始尝试为每一篇文章定一个清晰的结构，用最少的语言把想表达的问题说清楚，准备好了吗？
 &lt;/blockquote&gt;
     
     </summary>
