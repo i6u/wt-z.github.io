@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mymeek.com/"/>
-  <updated>2017-07-09T09:54:22.000Z</updated>
+  <updated>2017-09-03T04:46:24.000Z</updated>
   <id>http://www.mymeek.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac 应用推荐：Contexts 后台任务切换</title>
+    <link href="http://www.mymeek.com/2017/2017-09-03.html"/>
+    <id>http://www.mymeek.com/2017/2017-09-03.html</id>
+    <published>2017-09-03T04:35:37.000Z</published>
+    <updated>2017-09-03T04:46:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h3 id="contexts"><a href="https://contexts.co/" target="_blank" rel="external">Contexts</a></h3>
+<p>Mac 上强大的任务切换工具，好用到哭</p>
+<p>简单体验了下，</p>
+<ul>
+<li>为每个开启的应用打标签（数字标签），可以通过快捷键一键启动，command + tab 一个个切换简直是噩梦</li>
+<li>可完全覆盖掉系统的 command + tab 的切换方式，而且标签支持检索</li>
+<li>同一个应用的不同 tab 页都会单独列出（Mac 默认是通过 command + ` 切换）</li>
+<li>后台应用可以分组 … 还没想到应用场景</li>
+</ul>
+<p><a href="https://sspai.com/post/32468" target="_blank" rel="external">少数派体验文章</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h3 id=&quot;contexts&quot;&gt;&lt;a href=&quot;https://contexts.co/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Contexts&lt;/
+    
+    </summary>
+    
+      <category term="Mac App" scheme="http://www.mymeek.com/categories/Mac-App/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>读《思想录》</title>
@@ -684,112 +714,6 @@ Mac 很优秀，优秀到让你重新思考人生是不是走了很多年的弯�
     
       <category term="小句" scheme="http://www.mymeek.com/categories/%E5%B0%8F%E5%8F%A5/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>进程&amp;线程</title>
-    <link href="http://www.mymeek.com/2017/date.html"/>
-    <id>http://www.mymeek.com/2017/date.html</id>
-    <published>2017-04-09T14:31:37.000Z</published>
-    <updated>2017-04-10T01:00:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>线程是进程的子集</p>
-<a id="more"></a>
-<h2 id="进程">进程</h2>
-<h3 id="进程的提出">进程的提出：</h3>
-<p>为了方便操作系统全方位的管理计算机中运行的程序，操作系统为正在运行的程序建立的一个管理实体</p>
-<h3 id="进程的概念">进程的概念：</h3>
-<p>进程是一个具有一定独立功能的程序，关于某个数据集合的一次运行活动；进程也是操作系统进行资源调度和分配的一个独立单位</p>
-<p>一个进程包含五个实体部分</p>
-<ul>
-<li>操作系统管理运行程序的 <code>数据结构P</code></li>
-<li>运行程序的 <code>内存代码C</code></li>
-<li>运行程序的 <code>内存数据D</code></li>
-<li>运行程序的 <code>通用寄存器信息R</code></li>
-<li>操作系统控制程序执行的 <code>程序状态字信息PSW</code></li>
-</ul>
-<p>不同的进程可以共享相同的 <code>内存代码</code> 或相同的 <code>内存数据</code> 在内存模型下</p>
-<h3 id="进程的状态">进程的状态：</h3>
-<ul>
-<li>运行态：进程占有处理器运行</li>
-<li>就绪态：进程具有运行条件等待处理器运行</li>
-<li>等待态：进程因等待资源，输入输出，信号等，不具备运行条件</li>
-</ul>
-<h3 id="进程挂起">进程挂起：</h3>
-<p>因操作系统无法预估进程的数目与资源需求，计算机操作系统运行的过程中可能出现资源不足的情况，就会导致性能低和死锁两种情况</p>
-<p>解决方法：剥夺某些进程的内存及其他资源，调入OS管理的对换区，不参加进程调度，待适当的时候再调入内存，恢复资源，参加运行，这就是进程挂起</p>
-<p>挂起状态和等待状态有本质区别，后者占有申请到的资源处于等待，前者没有任何资源</p>
-<h2 id="线程">线程</h2>
-<h3 id="单线程结构的进程">单线程结构的进程</h3>
-<p>早起计算机支持的进程是一个经典的单线程结构的进程，其中包括一资源部分（用户地址空间，进程控制块）和一个执行序列（用户栈，核心栈）</p>
-<p>单线程结构在并发程序设计上存在的问题</p>
-<ul>
-<li>进程切换开销大</li>
-<li>进程通信开销大</li>
-</ul>
-<p><strong>因为任务并非无限可分</strong></p>
-<ul>
-<li>限制了进程并发的粒度</li>
-<li>降低了并发计算的效率</li>
-</ul>
-<h3 id="多线程结构的进程">多线程结构的进程</h3>
-<h4 id="多线程环境下进程的概念">多线程环境下进程的概念</h4>
-<p>在多线程环境中，进程是操作系统中进行保护和分配资源的独立单位。具有：</p>
-<ul>
-<li>用来容纳进程影像的虚拟地址空间</li>
-<li>对进程，文件和设备的存取保护机制</li>
-</ul>
-<h4 id="多线程环境下线程的概念">多线程环境下线程的概念</h4>
-<p>线程是进程的一条执行路径，是调度的基本单位，同一个进程中的所有线程共享进程获得的主控空间和资源。它具有：</p>
-<ul>
-<li>线程执行的状态</li>
-<li>受保护的线程上下文 <code>当线程不运行时，用户存储现场信息</code></li>
-<li>独立的程序指令计数器</li>
-<li>执行堆栈</li>
-<li>容纳局部变量和静态存储器</li>
-</ul>
-<h4 id="多线程环境下线程的状态与调度">多线程环境下，线程的状态与调度</h4>
-<ul>
-<li>线程有运行，就绪和睡眠，无挂起（挂起与资源有关，只有进程才有挂起状态）</li>
-<li>与线程变换有关的线程操作</li>
-</ul>
-<p><code>孵化，封锁，活化，剥夺，指派，结束</code></p>
-<p><strong>两种线程</strong></p>
-<ol style="list-style-type: decimal">
-<li>OS感知线程环境下：</li>
-</ol>
-<ul>
-<li>处理器调度的对象是线程 (运行状态在线程上)</li>
-<li>进程没有状态（或者只有挂起状态）</li>
-</ul>
-<ol start="2" style="list-style-type: decimal">
-<li>OS不感知线程环境下：</li>
-</ol>
-<ul>
-<li>处理器调度的对象任是进程</li>
-<li>用户控件中的用户调度程序调度线程</li>
-</ul>
-<h4 id="并发多线程程序设计优点">并发多线程程序设计优点</h4>
-<ul>
-<li>快速线程切换</li>
-<li>减少（系统）管理开销</li>
-<li>（线程）通信易于实现 <code>在变量中传递信息，应为变量是一个资源，资源由进程管理</code></li>
-<li>并行程度提高</li>
-<li>节省内存空间</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;线程是进程的子集&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="MOOC 笔记" scheme="http://www.mymeek.com/categories/MOOC-%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="计算操作系统" scheme="http://www.mymeek.com/tags/%E8%AE%A1%E7%AE%97%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   

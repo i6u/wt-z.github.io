@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[Mac 应用推荐：Contexts 后台任务切换]]></title>
+      <url>%2F2017%2F2017-09-03.html</url>
+      <content type="text"><![CDATA[Contexts Mac 上强大的任务切换工具，好用到哭 简单体验了下， 为每个开启的应用打标签（数字标签），可以通过快捷键一键启动，command + tab 一个个切换简直是噩梦 可完全覆盖掉系统的 command + tab 的切换方式，而且标签支持检索 同一个应用的不同 tab 页都会单独列出（Mac 默认是通过 command + ` 切换） 后台应用可以分组 … 还没想到应用场景 少数派体验文章]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[读《思想录》]]></title>
       <url>%2F2017%2F2017-07-09.html</url>
       <content type="text"><![CDATA[人是一支有思想的芦苇 记不清是小学还是初中，从那时起这句话就让我印象深刻，过了那么多年还会时时想起，每每读到总能发人深思。今天把她摘录在此，你我共勉。 “会思想的芦苇” 源自法国十七世纪科学家、思想家布莱兹·帕斯卡尔1670年出版的散文集《思想录》，他在文中写道，人只不过是一根芦苇，是自然界最脆弱的东西；但他是一根能思想的芦苇。用不着整个宇宙都拿起武器来才能毁灭他；一口气、一滴水就足以致他死命了。然而，纵使宇宙毁灭了他，人却仍然要比致他于死命的东西更高贵得多；因为他知道自己要死亡，以及宇宙对他所具有的优势，而宇宙对此却是一无所知。因而，我们全部的尊严就在于思想…… 帕斯卡尔一生体弱多病，只活了三十九岁，终身未娶。其《思想录》一书被奉为西方三大经典散文。 《会思想的芦苇》艾柯 文摘自 百度百科]]></content>
@@ -206,6 +213,13 @@
 
     
     <entry>
+      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
+      <url>%2F2017%2F2017-04-03-1.html</url>
+      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[博客文档内置标签]]></title>
       <url>%2F2017%2F%E5%8D%9A%E5%AE%A2%E6%96%87%E6%A1%A3%E7%89%B9%E6%AE%8A%E6%A0%B7%E5%BC%8F.html</url>
       <content type="text"><![CDATA[人的一切痛苦，本质上都是对自己无能的愤怒 地球是圆的，不要被图片误导哈 default Content (md partial supported) primary Content (md partial supported) success Content (md partial supported) info Content (md partial supported) warning Content (md partial supported) danger Content (md partial supported) 控制文章在首页展示的内容，添加阅读全文的功能 在文章中添加 &lt;!--more--&gt; 来分割文章 表示，之后的内容只有点击阅读全文才能看见 手机端安装好的效果图]]></content>
@@ -216,13 +230,6 @@
       <title><![CDATA[hexo next 动态背景]]></title>
       <url>%2F2017%2F2017-04-03.html</url>
       <content type="text"><![CDATA[标签内1234&#123;% if theme.canvas_nest %&#125;&lt;script type=&quot;text/javascript&quot;color=&quot;0,0,0&quot; opacity=&apos;0.5&apos; zIndex=&quot;-1&quot; count=&quot;27&quot; src=&quot;//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js&quot;&gt;&lt;/script&gt;&#123;% endif %&#125; color：颜色 opacity：透明度 zIndex：层叠顺序，默认-1 count：线条数，默认150]]></content>
-    </entry>
-
-    
-    <entry>
-      <title><![CDATA[Hexo + GitHub Pages + 阿里域名 爬坑]]></title>
-      <url>%2F2017%2F2017-04-03-1.html</url>
-      <content type="text"><![CDATA[GitHub Pages 绑定域名的时候遇到一些问题，按照网上的教程配置好之后，不是 404 就是通过 mymeek.com 可以跳转，通过 www.mymeek.com 不能跳转，试过之后，发下如下配置问题得到解决 环境 阿里域名解析服务 Hexo NexT GitHub Pages 解决过程 CNAME 文件在 source 创建，必须为大写，没有后缀名！ CNAME 中填写的域名格式参考：www.mymeek.com 阿里域名解析配置参考 ali 另外：CNAME 也可以在 GitHub Pages 中配置 在 GitHub Pages 仓库 Settings 中配置 问题解决，世界又安静了…]]></content>
     </entry>
 
     
